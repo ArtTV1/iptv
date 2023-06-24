@@ -1,0 +1,918 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="pervy" tvg-name="ПЕРВЫЙ КАНАЛ" tvg-logo="https://app.playlistbox.com/icon/5YDKwr2BqLzpgZeq7pZVW8J7GyvOXld6.png" group-title="Основные", ПЕРВЫЙ КАНАЛ
+#EXTGRP:Основные
+http://edge4.1internet.tv/dash-live12/streams/1tv/1tvdash.mpd
+#EXTINF:-1 tvg-name="ПЕРВЫЙ КАНАЛ (+1)" tvg-logo="https://app.playlistbox.com/icon/aNGL5kdnv361goab2RxXVmPjYb7BWK4E.png" group-title="Основные", ПЕРВЫЙ КАНАЛ (+1)
+#EXTGRP:Основные
+https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SARATOV_1TV/variant.m3u8
+#EXTINF:-1 tvg-id="rossia1" tvg-name="РОССИЯ 1" tvg-logo="https://i.pinimg.com/originals/52/d6/82/52d682842b7c24c184d9163b0ba040e6.png" group-title="Основные", РОССИЯ 1
+#EXTGRP:Основные
+http://okkotv-live.cdnvideo.ru/channel/Russia1HD/1080p.m3u8
+#EXTINF:-1 tvg-name="РОССИЯ (+1)" tvg-logo="https://app.playlistbox.com/icon/aNGL5kdnv361goaba1xXVmPjYb7BWK4E.png" group-title="Основные", РОССИЯ (+1)
+#EXTGRP:Основные
+https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R04_OTT_VLG_SARATOV_ROSSIA1/variant.m3u8?version=2
+#EXTINF:-1 tvg-id="ntv" tvg-name="НТВ" tvg-logo="https://app.playlistbox.com/icon/0B7b8PKO54QkGZ6p1qxNEqAYzmrVWyjg.png" group-title="Основные", НТВ
+#EXTGRP:Основные
+https://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 tvg-name="НТВ (+1)" tvg-logo="https://app.playlistbox.com/icon/LqEygb36eAPXvx4n7zZw1B4J20a7VGdn.png" group-title="Основные", НТВ (+1)
+#EXTGRP:Основные
+https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SARATOV_NTV/variant.m3u8?version=2
+#EXTINF:-1 tvg-id="5kanal-ru" tvg-name="ПЯТЫЙ КАНАЛ" tvg-logo="https://app.playlistbox.com/icon/9GzJ5y6bgn0A4wMgRWxYN1Lr2PjakdQv.png" group-title="Основные", ПЯТЫЙ КАНАЛ
+#EXTGRP:Основные
+http://okkotv-live.cdnvideo.ru/channel/5_OTT/480p.m3u8
+#EXTINF:-1 tvg-id="rentv" tvg-name="РЕН ТВ" tvg-logo="https://app.playlistbox.com/icon/keYB3LgjD7G8WdoDW6ZAXpwKq5mPJvV9.png" group-title="Основные", РЕН ТВ
+#EXTGRP:Основные
+https://okkotv-live.cdnvideo.ru/channel/Rentv_HD_OTT/1080p.m3u8
+#EXTINF:-1 tvg-id="8kanal-ru" tvg-name="8 КАНАЛ" tvg-logo="https://app.playlistbox.com/icon/ma2dV6vG79n1geMrgnZQ3EDLAN4b5ryw.png" group-title="Основные", 8 КАНАЛ
+#EXTGRP:Основные
+https://v4.proofix.ru/8tv-europe/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="КАРУСЕЛЬ" tvg-logo="https://app.playlistbox.com/icon/mrKve0kgRq96yxLvv7ZQjNld35WLBJ1w.png" group-title="Основные", КАРУСЕЛЬ
+#EXTGRP:Основные
+http://45.159.74.13:80/Karusel/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="tvcentr" tvg-name="ТВЦ" tvg-logo="https://app.playlistbox.com/icon/Yw9lbPDOG1VRKZ5a1GZe8pm3LXjzgkQ2.png" group-title="Основные", ТВЦ
+#EXTGRP:Основные
+http://api.peers.tv/timeshift/tvc/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE2ODcyODc0MzAsImlhdCI6MTY4NzIwMTAzMCwiY2lkIjo2LCJ1aWQiOjYwMjUyNTMyMywicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTYyOTMsInByb2ZpbGUiOiJhZHVsdCJ9.EOYNYDoB4r7qhoYBi3ItWM72SYEWmSHMzjGBk1nYPIc&offset=10
+#EXTINF:-1 tvg-id="tv3-ru" tvg-name="ТВ3" tvg-logo="https://app.playlistbox.com/icon/pYgKnX27GlDPdkZGRbMV6AOrqyjw9z1W.png" group-title="Основные", ТВ3
+#EXTGRP:Основные
+https://okkotv-live.cdnvideo.ru/channel/TV3_OTT_HD/1080p.m3u8
+#EXTINF:-1 tvg-name="ЗВЕЗДА" tvg-logo="https://app.playlistbox.com/icon/0B7b8PKO54QkGZ6pE5xNEqAYzmrVWyjg.png" group-title="Основные", ЗВЕЗДА
+#EXTGRP:Основные
+http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+#EXTINF:-1 tvg-id="domashny" tvg-name="ДОМАШНИЙ" tvg-logo="https://app.playlistbox.com/icon/V5EYdPgA0beWmo2dz0Ml2Qpvy9L6KJa3.png" group-title="Основные", ДОМАШНИЙ
+#EXTGRP:Основные
+http://okkotv-live.cdnvideo.ru/channel/Dom_HD_OTT/1080p.m3u8
+#EXTINF:-1 tvg-name="ПЯТНИЦА!" tvg-logo="https://app.playlistbox.com/icon/NmGYXlVJ1Da0RjxXBBZzy8dek2wvP5gW.png" group-title="Основные", ПЯТНИЦА!
+#EXTGRP:Основные
+https://okkotv-live.cdnvideo.ru/channel/Pyatnizza_OTT_HD/1080p.m3u8
+#EXTINF:-1 tvg-id="2288" tvg-name="Суббота HD" tvg-logo="https://app.playlistbox.com/icon/X2d9PpDYbRjeqxRLwGZn5k71JNgAKrml.png" group-title="Основные", СУББОТА HD
+#EXTGRP:Основные
+https://bl.uma.media/live/317845/HLS/4614144_3,2883584_2,1153024_1/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8
+#EXTINF:-1 tvg-name="ТНТ" tvg-logo="https://app.playlistbox.com/icon/lgyq19r83p50mxYGPqZVkQXvADRObGP7.png" group-title="Основные", ТНТ
+#EXTGRP:Основные
+https://okkotv-live.cdnvideo.ru/channel/TNT_OTT_HD/1080p.m3u8
+#EXTINF:-1 tvg-name="МИР" tvg-logo="https://app.playlistbox.com/icon/PmrKve0kgRq96yxLD7xQjNld35WLBJ1w.png" group-title="Основные", МИР
+#EXTGRP:Основные
+http://dmi3y-tv.ru/hls/T2/CH_MIRHD.m3u8
+#EXTINF:-1 tvg-name="МИР 24 HD" tvg-logo="https://app.playlistbox.com/icon/XG8pYyreWB49J6o3n1ZmOQ3jKka5L2lD.png" group-title="Основные", МИР 24 HD
+#EXTGRP:Основные
+http://okkotv-live.cdnvideo.ru/channel/Mir_24_OTT_HD/1080p.m3u8
+#EXTINF:-1 tvg-id="soyuz" tvg-name="СОЮЗ HD" tvg-logo="https://app.playlistbox.com/icon/dbPpzO3N2aBrqlovAKZy1vm7j4wQWYnR.png" group-title="Основные", СОЮЗ HD
+#EXTGRP:Основные
+https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
+#EXTINF:-1 tvg-name="СПАС" tvg-logo="https://app.playlistbox.com/icon/XG8pYyreWB49J6o3X9xmOQ3jKka5L2lD.png" group-title="Основные", СПАС
+#EXTGRP:Основные
+http://spas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="СТС" tvg-logo="https://app.playlistbox.com/icon/pYgKnX27GlDPdkZGJOMV6AOrqyjw9z1W.png" group-title="Основные", СТС
+#EXTGRP:Основные
+https://okkotv-live.cdnvideo.ru/channel/CTC_HD_OTT/1080p.m3u8
+#EXTINF:-1 tvg-name="СТС LOVE" tvg-logo="https://app.playlistbox.com/icon/KPkNpg4maGY0QJoljlMWLRnbqy328jAv.png" group-title="Основные", СТС LOVE
+#EXTGRP:Основные
+https://okkotv-live.cdnvideo.ru/channel/CTC_Love_OTT_2.m3u8
+#EXTINF:-1 tvg-name="ОТР" tvg-logo="https://app.playlistbox.com/icon/byYJGdpa7X3k5mZd3bMrv4jR21qgEADK.png" group-title="Основные", ОТР
+#EXTGRP:Основные
+http://s18209.cdn.ngenix.net/hls/CH_R01_OTR/playlist.m3u8
+#EXTINF:-1 tvg-name="ЧЕ!" tvg-logo="https://app.playlistbox.com/icon/0Yw9lbPDOG1VRKZ5rroe8pm3LXjzgkQ2.png" group-title="Основные", ЧЕ!
+#EXTGRP:Основные
+http://okkotv-live.cdnvideo.ru/channel/Che_OTT_2/480p.m3u8
+#EXTINF:-1 tvg-id="kaleydoskop-tv" tvg-name="КАЛЕЙДОСКОП ТВ" tvg-logo="https://app.playlistbox.com/icon/8aNGL5kdnv361goad4ZXVmPjYb7BWK4E.png" group-title="Основные", КАЛЕЙДОСКОП ТВ
+#EXTGRP:Основные
+https://federaltv-migra.cdnvideo.ru/Kaleidoskop_edge/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="tv-guberniya" tvg-name="ГУБЕРНИЯ" tvg-logo="https://app.playlistbox.com/icon/K8XYmkqA6jOWBxPY8yMDE1bQl3R4Gyan.png" group-title="Основные", ГУБЕРНИЯ
+#EXTGRP:Основные
+https://s68149.cdn.ngenix.net/s68149-media-origin/lvs/tvgub/index.m3u8
+#EXTINF:-1 tvg-id="tolyatti24" tvg-name="ТОЛЬЯТТИ 24 HD" tvg-logo="https://app.playlistbox.com/icon/V5EYdPgA0beWmo2nNzol2Qpvy9L6KJa3.png" group-title="Основные", ТОЛЬЯТТИ 24 HD
+#EXTGRP:Основные
+https://tvtogliatti24.ru/hls/live720/index.m3u8
+#EXTINF:-1 tvg-name="КРАСНОДАР HD" tvg-logo="https://app.playlistbox.com/icon/Bn6p4Ke1N5rV8ZWQ1OxDl0bAWz7dvkJR.png" group-title="Основные", КРАСНОДАР HD
+#EXTGRP:Основные
+https://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="КУБАНЬ 24" tvg-logo="https://app.playlistbox.com/icon/a2dV6vG79n1geMrpEnoQ3EDLAN4b5ryw.png" group-title="Основные", КУБАНЬ 24
+#EXTGRP:Основные
+https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_KUBAN24/variant.m3u8
+#EXTINF:-1 tvg-name="РОССИЯ24" tvg-logo="https://app.playlistbox.com/icon/6ga80m54j7eJAxN0RBZYOLbBln3EQNrP.png" group-title="Основные", РОССИЯ24
+#EXTGRP:Основные
+https://okkotv-live.cdnvideo.ru/channel/Russia24/480p.m3u8
+#EXTINF:-1 tvg-id="lot-47" tvg-name="ЛЕН ТВ 24" tvg-logo="https://app.playlistbox.com/icon/PkNpg4maGY0QJoljAPMWLRnbqy328jAv.png" group-title="Основные", ЛЕН ТВ 24
+#EXTGRP:Основные
+https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_LenTV/hls/1280x720@2704/playlist.m3u8
+#EXTINF:-1 tvg-name="ABAZA TV" tvg-logo="https://app.playlistbox.com/icon/yWKm9lLEGakqPMQQQLMBOnNdRr06XV32.png" group-title="Основные", ABAZA TV
+#EXTGRP:Основные
+http://clients.apsny.camera:8080/tv_abaza_tv/index.m3u8
+#EXTINF:-1 tvg-id="yu" tvg-name="Ю ТВ" tvg-logo="https://app.playlistbox.com/icon/eWjm281v9VYqwzx9r2MREnk3GBgNLKQX.png" group-title="Основные", Ю ТВ
+#EXTGRP:Основные
+https://strm.yandex.ru/kal/utv/utv0.m3u8
+#EXTINF:-1 tvg-name="РБК" tvg-logo="https://app.playlistbox.com/icon/Blgyq19r83p50mxYBrMVkQXvADRObGP7.png" group-title="Основные", РБК
+#EXTGRP:Основные
+https://e4-online-video.rbc.ru/online2/rbctvhd_1080p/index.m3u8?e=e4&t=ef/V/L
+#EXTINF:-1 tvg-name="КРАСНАЯ ЛИНИЯ" tvg-logo="https://app.playlistbox.com/icon/PmrKve0kgRq96yxLG5oQjNld35WLBJ1w.png" group-title="Основные", КРАСНАЯ ЛИНИЯ
+#EXTGRP:Основные
+http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="EURONEWS (RU)" tvg-logo="https://app.playlistbox.com/icon/WBRJkX1bvDqj5xzAQNo4KLPzglr60QA7.png" group-title="Основные", EURONEWS (RU)
+#EXTGRP:Основные
+#EXTVLCOPT:http-user-agent=IPTV
+http://portal.ott.pink/watch/7045/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 tvg-name="СОЛОВЬЕВ LIVE" tvg-logo="https://app.playlistbox.com/icon/aNGL5kdnv361goajqWxXVmPjYb7BWK4E.png" group-title="Основные", СОЛОВЬЕВ LIVE
+#EXTGRP:Основные
+http://cdn-lb.iptv2022.com/p/OesQx2EWRb_Wx8ZUNNd09g,1684353707/streaming/solovyevlive/324/1/tracks-v3a1/mono.m3u8
+#EXTINF:-1 tvg-name="ИЗВЕСТИЯ ТВ" tvg-logo="https://app.playlistbox.com/icon/l64rgEeNLQpPAxOw9mx7Yav3GnwkqmBz.png" group-title="Основные", ИЗВЕСТИЯ ТВ
+#EXTGRP:Основные
+https://okkotv-live.cdnvideo.ru/channel/Izvestiya_HD_2/1080p.m3u8
+#EXTINF:-1 tvg-name="ДОЖДЬ (RU)" tvg-logo="https://app.playlistbox.com/icon/NROQV8j3aWyE2vxpVbZwb4Gle19kPLKn.png" group-title="Основные", ДОЖДЬ (RU)
+#EXTGRP:Основные
+#EXTVLCOPT:http-user-agent=IPTV
+http://portal.ott.pink/watch/7319/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 tvg-name="МУЛЬТИЛАНДИЯ" tvg-logo="https://app.playlistbox.com/icon/KPkNpg4maGY0QJolploWLRnbqy328jAv.png" group-title="Основные", МУЛЬТИЛАНДИЯ
+#EXTGRP:Основные
+#EXTVLCOPT:http-user-agent=IPTV
+https://okkotv-live.cdnvideo.ru/channel/Multilandia_HD/1080p.m3u8
+#EXTINF:-1 tvg-name="РАДОСТЬ МОЯ" tvg-logo="https://app.playlistbox.com/icon/9GzJ5y6bgn0A4wMgVAxYN1Lr2PjakdQv.png" group-title="Основные", РАДОСТЬ МОЯ
+#EXTGRP:Основные
+#EXTVLCOPT:http-user-agent=IPTV
+http://dmi3y-tv.ru/hls/CH_RADOSTMOYA.m3u8
+#EXTINF:-1 tvg-name="СМАЙЛИК ТВ" tvg-logo="https://app.playlistbox.com/icon/Ky75Aja1n0b8YJZERYoOpLmdwRrqXgvP.png" group-title="Основные", СМАЙЛИК ТВ
+#EXTGRP:Основные
+#EXTVLCOPT:http-user-agent=IPTV
+https://livetv.mylifeisgood.ml/channels/smile.m3u8
+#EXTINF:-1 tvg-name="BABY TIME" tvg-logo="https://app.playlistbox.com/icon/lRXp9zJO7B0WeZ1nnyo68y35DwQnGrjA.png" group-title="Основные", BABY TIME
+#EXTGRP:Основные
+#EXTVLCOPT:http-user-agent=IPTV
+https://livetv.mylifeisgood.ml/channels/babytime.m3u8
+#EXTINF:-1 tvg-name="ЛЕВА ТВ" tvg-logo="https://bigdigit.ru/upload/iblock/69d/LEO_LOGO_RU.png" group-title="Основные", ЛЕВА ТВ
+#EXTGRP:Основные
+#EXTVLCOPT:http-user-agent=IPTV
+http://strm.yandex.ru/kal/leva/leva0.m3u8
+#EXTINF:-1 tvg-name="СТС Kids" tvg-logo="https://app.playlistbox.com/icon/8aNGL5kdnv361goaNWxXVmPjYb7BWK4E.png" group-title="Основные", СТС Kids
+#EXTGRP:Основные
+#EXTVLCOPT:http-user-agent=IPTV
+https://okkotv-live.cdnvideo.ru/channel/CTC_Kids_HD/1080p.m3u8
+#EXTINF:-1 tvg-name="МАМА" tvg-logo="https://app.playlistbox.com/icon/lNqyYR0G5WKaBVxbXgZ9wmD7pjLP28OE.png" group-title="Основные", МАМА
+#EXTGRP:Основные
+#EXTVLCOPT:http-user-agent=IPTV
+http://178.68.215.18:82/play/a04w
+#EXTINF:-1 tvg-name="2х2" tvg-logo="https://app.playlistbox.com/icon/XG8pYyreWB49J6o3LjxmOQ3jKka5L2lD.png" group-title="Основные", 2х2
+#EXTGRP:Основные
+#EXTVLCOPT:http-user-agent=IPTV
+http://93.125.34.51:30002/2x2/index.m3u8
+#EXTINF:-1 tvg-id="kinouzhas" tvg-name="КИНОУЖАС" tvg-logo="https://app.playlistbox.com/icon/N7gAKaznkE1ybVxB82Z0PGQ4d98RpY2O.png" group-title="Фильмы", КИНОУЖАС
+#EXTGRP:Фильмы
+http://109.197.192.121:8080/kinouzhas/index.m3u8
+#EXTINF:-1 tvg-name="О КИНО" tvg-logo="https://app.playlistbox.com/icon/1pBwDQkeR5089ZqVz0o2yrY7KNbnjLzG.png" group-title="Фильмы", О КИНО
+#EXTGRP:Фильмы
+http://138.201.67.145:8081/okino/index.m3u8
+#EXTINF:-1 tvg-name=".BLACK" tvg-logo="https://app.playlistbox.com/icon/1VewAOEpa7GKmZkW0lZQzj3nX6k098Rl.png" group-title="Фильмы", .BLACK
+#EXTGRP:Фильмы
+https://okkotv-live.cdnvideo.ru/channel/Sony_Turbo.m3u8
+#EXTINF:-1 tvg-name=".SCI-FI" tvg-logo="https://app.playlistbox.com/icon/1pBwDQkeR5089Zq3Jkx2yrY7KNbnjLzG.png" group-title="Фильмы", .SCI-FI
+#EXTGRP:Фильмы
+https://okkotv-live.cdnvideo.ru/channel/Sony_SciFi.m3u8
+#EXTINF:-1 tvg-id="sapfir" tvg-name="САПФИР HD" tvg-logo="https://app.playlistbox.com/icon/Bn6p4Ke1N5rV8ZWOQdZDl0bAWz7dvkJR.png" group-title="Фильмы", САПФИР HD
+#EXTGRP:Фильмы
+https://okkotv-live.cdnvideo.ru/channel/Fox_Life_HD/1080p.m3u8
+#EXTINF:-1 tvg-name="A1 HD" tvg-logo="https://app.playlistbox.com/icon/GzJ5y6bgn0A4wMgLOaZYN1Lr2PjakdQv.png" group-title="Фильмы", A1 HD
+#EXTGRP:Фильмы
+https://okkotv-live.cdnvideo.ru/channel/A1_HD.m3u8
+#EXTINF:-1 tvg-name="A2" tvg-logo="https://app.playlistbox.com/icon/PmrKve0kgRq96yxLwaoQjNld35WLBJ1w.png" group-title="Фильмы", A2
+#EXTGRP:Фильмы
+http://31.148.48.15/A2/index.m3u8
+#EXTINF:-1 tvg-name="НСТ" tvg-logo="https://app.playlistbox.com/icon/Ky75Aja1n0b8YJZEQYZOpLmdwRrqXgvP.png" group-title="Фильмы", НСТ
+#EXTGRP:Фильмы
+#EXTVLCOPT:http-user-agent=IPTV
+http://xemulwzy.russtv.net/iptv/YN2H92MFHBQ5HH/726/index.m3u
+#EXTINF:-1 tvg-name="AMEDIA HIT HD" tvg-logo="https://app.playlistbox.com/icon/vQ97O6Vp54NE2yxmLeoLKe3Pjln8qJAm.png" group-title="Фильмы", AMEDIA HIT HD
+#EXTGRP:Фильмы
+http://okkotv-live.cdnvideo.ru/channel/Amedia_Hit_HD/1080p.m3u8
+#EXTINF:-1 tvg-name="BACKUSTV DARK" tvg-logo="https://app.playlistbox.com/icon/bPpzO3N2aBrqlovQeBZy1vm7j4wQWYnR.png" group-title="Фильмы", BACKUSTV DARK
+#EXTGRP:Фильмы
+http://stream.backustv.ru/live/btv2/index.m3u8
+#EXTINF:-1 tvg-name="BACKUSTV ORIGINAL" tvg-logo="https://app.playlistbox.com/icon/eYB3LgjD7G8WdoDYRmxAXpwKq5mPJvV9.png" group-title="Фильмы", BACKUSTV ORIGINAL
+#EXTGRP:Фильмы
+http://stream.backustv.ru/live/btv/index.m3u8
+#EXTINF:-1 tvg-name="Ultra HD Cinema UHD" group-title="Фильмы", Ultra HD Cinema UHD
+#EXTGRP:Фильмы
+#EXTVLCOPT:http-user-agent=IPTV
+http://dmi3y-tv.ru/hls/zabava/CH_ULTRAHDCINEMAUHD.m3u8
+#EXTINF:-1 tvg-name="ШОКИРУЮЩЕЕ ТВ" tvg-logo="https://app.playlistbox.com/icon/Ol64rgEeNLQpPAxO8RM7Yav3GnwkqmBz.png" group-title="Фильмы", ШОКИРУЮЩЕЕ ТВ
+#EXTGRP:Фильмы
+http://st2.sky1000.ru/Kinopokaz_HD1/mono.m3u8?token=edc24ff8f81a2e6144065ca2adf9fe36
+#EXTINF:-1 tvg-name="BOLT HD" tvg-logo="https://app.playlistbox.com/icon/ROQV8j3aWyE2vxpNraZwb4Gle19kPLKn.png" group-title="Фильмы", BOLT HD
+#EXTGRP:Фильмы
+https://okkotv-live.cdnvideo.ru/channel/Bolt_HD/1080p.m3u8
+#EXTINF:-1 tvg-name="TRASH" tvg-logo="https://app.playlistbox.com/icon/mGYXlVJ1Da0RjxXDYdxzy8dek2wvP5gW.png" group-title="Фильмы", TRASH
+#EXTGRP:Фильмы
+http://livetv.mylifeisgood.ml/channels/trash.m3u8
+#EXTINF:-1 tvg-name="ULTRA REX UHD" group-title="Фильмы", ULTRA REX UHD
+#EXTGRP:Фильмы
+#EXTVLCOPT:http-user-agent=IPTV
+http://dmi3y-tv.ru/hls/zabava/CH_RUSSIANEXTREMEULTRAUHD.m3u8
+#EXTINF:-1 tvg-name="ИНДИЙСКОЕ КИНО" tvg-logo="https://app.playlistbox.com/icon/ma2dV6vG79n1geMrKaZQ3EDLAN4b5ryw.png" group-title="Фильмы", ИНДИЙСКОЕ КИНО
+#EXTGRP:Фильмы
+http://45.11.139.43:8081/stream/jimi/hls/playlist.m3u8
+#EXTINF:-1 tvg-name="CINEMA CLASSIC" tvg-logo="https://app.playlistbox.com/icon/bPpzO3N2aBrqlovG9vxy1vm7j4wQWYnR.png" group-title="Фильмы", CINEMA CLASSIC
+#EXTGRP:Фильмы
+https://api.alpaca.t62a.com/hls/9114/stream0.m3u8
+#EXTINF:-1 tvg-name="FAN" tvg-logo="https://app.playlistbox.com/icon/GzJ5y6bgn0A4wMgLQWZYN1Lr2PjakdQv.png" group-title="Фильмы", FAN
+#EXTGRP:Фильмы
+http://193.33.240.8:8080/fan/index.m3u8
+#EXTINF:-1 tvg-name="FILM BOX" tvg-logo="https://app.playlistbox.com/icon/8qNz762JY5OD9x05P4MPn1eAa4GyvL0V.png" group-title="Фильмы", FILM BOX
+#EXTGRP:Фильмы
+http://94.230.240.17:8080/film_box/index.m3u8
+#EXTINF:-1 tvg-name="ФАНТАСТИКА" tvg-logo="https://app.playlistbox.com/icon/YgKnX27GlDPdkZGEnPxV6AOrqyjw9z1W.png" group-title="Фильмы", ФАНТАСТИКА
+#EXTGRP:Фильмы
+#EXTVLCOPT:http-user-agent=IPTV
+https://iptvplay.catcast.tv/content/38801/index.m3u8
+#EXTINF:-1 tvg-name="RED" tvg-logo="https://app.playlistbox.com/icon/1pBwDQkeR5089Zq2VVo2yrY7KNbnjLzG.png" group-title="Фильмы", RED
+#EXTGRP:Фильмы
+https://okkotv-live.cdnvideo.ru/channel/Sony_ET.m3u8
+#EXTINF:-1 tvg-name="STAR FAMILY HD" tvg-logo="https://app.playlistbox.com/icon/jk07Ev2J56XayZ7p8voArgRlD9de8NWP.png" group-title="Фильмы", STAR FAMILY HD
+#EXTGRP:Фильмы
+https://okkotv-live.cdnvideo.ru/channel/Star_Family_HD/1080p.m3u8
+#EXTINF:-1 tvg-name="START AIR HD" group-title="Фильмы", START AIR HD
+#EXTGRP:Фильмы
+https://okkotv-live.cdnvideo.ru/channel/START_Air_HD.m3u8
+#EXTINF:-1 tvg-name="START WORLD" tvg-logo="https://app.playlistbox.com/icon/mrKve0kgRq96yxLGdWoQjNld35WLBJ1w.png" group-title="Фильмы", START WORLD
+#EXTGRP:Фильмы
+https://livetv.mylifeisgood.ml/channels/ccf149ef976cb08ffb31e2047772386a
+#EXTINF:-1 tvg-name="START WORLD HD" tvg-logo="https://app.playlistbox.com/icon/mrKve0kgRq96yxLGdWoQjNld35WLBJ1w.png" group-title="Фильмы", START WORLD HD
+#EXTGRP:Фильмы
+https://okkotv-live.cdnvideo.ru/channel/START_World_HD.m3u8
+#EXTINF:-1 tvg-name="TV1000. РУССКОЕ КИНО HD" tvg-logo="https://app.playlistbox.com/icon/GzJ5y6bgn0A4wMgLV2ZYN1Lr2PjakdQv.png" group-title="Фильмы", TV1000. РУССКОЕ КИНО HD
+#EXTGRP:Фильмы
+https://okkotv-live.cdnvideo.ru/channel/TV1000_Rus_Kino_HD/1080p.m3u8
+#EXTINF:-1 tvg-name="TV1000 ACTION HD" tvg-logo="https://app.playlistbox.com/icon/K8XYmkqA6jOWBxPWqboDE1bQl3R4Gyan.png" group-title="Фильмы", TV1000 ACTION HD
+#EXTGRP:Фильмы
+https://okkotv-live.cdnvideo.ru/channel/TV1000_Action_HD/1080p.m3u8
+#EXTINF:-1 tvg-name="TV1000 HD" tvg-logo="https://app.playlistbox.com/icon/GzJ5y6bgn0A4wMgLV2ZYN1Lr2PjakdQv.png" group-title="Фильмы", TV1000 HD
+#EXTGRP:Фильмы
+https://okkotv-live.cdnvideo.ru/channel/TV1000_HD/1080p.m3u8
+#EXTINF:-1 tvch-id="6047" tvg-name="TV XXI" tvg-logo="https://app.playlistbox.com/icon/90B7b8PKO54QkGZ6J5ZNEqAYzmrVWyjg.png" group-title="Фильмы", TV XXI
+#EXTGRP:Фильмы
+http://178.163.52.91:4022/udp/234.0.0.187:2000
+#EXTINF:-1 tvg-id="kinosat" tvg-name="КИНОСАТ" tvg-logo="https://app.playlistbox.com/icon/PBn6p4Ke1N5rV8ZWgdZDl0bAWz7dvkJR.png" group-title="Фильмы", КИНОСАТ
+#EXTGRP:Фильмы
+http://185.23.80.28:8080/KinoSat/index.m3u8
+#EXTINF:-1 tvg-name="ТВ ЭКСТРА HD" tvg-logo="https://app.playlistbox.com/icon/YgKnX27GlDPdkZG0GmoV6AOrqyjw9z1W.png" group-title="Фильмы", ТВ ЭКСТРА HD
+#EXTGRP:Фильмы
+#EXTVLCOPT:http-user-agent=IPTV
+http://live-1.otcnet.ru:80/tvextra720b/index.m3u8
+#EXTINF:-1 tvg-name="KINOLIVING" tvg-logo="https://app.playlistbox.com/icon/aNGL5kdnv361goabROxXVmPjYb7BWK4E.png" group-title="Фильмы", KINOLIVING
+#EXTGRP:Фильмы
+http://cdn-lb.iptv2022.com/p/QjacDa0y1pHDtYq-sBWN1Q,1672950459/streaming/kinoliving/324/1/tracks-v3a1/mono.m3u8
+#EXTINF:-1 tvch-id="6030" tvg-name="ВИДЕОКАССЕТА" tvg-logo="https://app.playlistbox.com/icon/y75Aja1n0b8YJZEve9oOpLmdwRrqXgvP.png" group-title="Фильмы", ВИДЕОКАССЕТА
+#EXTGRP:Фильмы
+https://autopilot.catcast.tv/mobile.m3u8?channel_id=37925
+#EXTINF:-1 tvg-name="МУЖСКОЕ КИНО" tvg-logo="https://app.playlistbox.com/icon/NqyYR0G5WKaBVxbRW6x9wmD7pjLP28OE.png" group-title="Фильмы", МУЖСКОЕ КИНО
+#EXTGRP:Фильмы
+http://st2.sky1000.ru/Muzhskoe_kino/mono.m3u8?token=e0b9b338b9db365129f82cfb221460a8
+#EXTINF:-1 tvg-name="VIP COMEDY" tvg-logo="https://app.playlistbox.com/icon/NqyYR0G5WKaBVxbk82M9wmD7pjLP28OE.png" group-title="Фильмы", VIP COMEDY
+#EXTGRP:Фильмы
+https://okkotv-live.cdnvideo.ru/channel/VIP_Comedy_HD/1080p.m3u8
+#EXTINF:-1 tvg-name="VIP MEGAHIT" tvg-logo="https://app.playlistbox.com/icon/5YDKwr2BqLzpgZeqj6ZVW8J7GyvOXld6.png" group-title="Фильмы", VIP MEGAHIT
+#EXTGRP:Фильмы
+https://okkotv-live.cdnvideo.ru/channel/VIP_Megahit_HD/1080p.m3u8
+#EXTINF:-1 tvg-name="VIP PREMIERE" tvg-logo="https://app.playlistbox.com/icon/82YEm9Vw51D0poVQ7EZNr4jQPOGd7KJb.png" group-title="Фильмы", VIP PREMIERE
+#EXTGRP:Фильмы
+https://okkotv-live.cdnvideo.ru/channel/VIP_Premiere_HD/1080p.m3u8
+#EXTINF:-1 tvg-id="Фильмы" tvg-name="VIP SERIAL HD" tvg-logo="https://app.playlistbox.com/icon/PBn6p4Ke1N5rV8ZWJjMDl0bAWz7dvkJR.png" group-title="Фильмы", VIP SERIAL HD
+#EXTGRP:Фильмы
+https://okkotv-live.cdnvideo.ru/channel/VIP_Serial_HD/1080p.m3u8
+#EXTINF:-1 tvg-name="КИНОХИТ" tvg-logo="https://app.playlistbox.com/icon/keYB3LgjD7G8WdoDyYxAXpwKq5mPJvV9.png" group-title="Фильмы", КИНОХИТ
+#EXTGRP:Фильмы
+http://45.159.74.13:80/Kinokhit/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="КИНО 1 INTERNATIONAL" tvg-logo="https://app.playlistbox.com/icon/WBRJkX1bvDqj5xzKdmM4KLPzglr60QA7.png" group-title="Фильмы", КИНО 1 INTERNATIONAL
+#EXTGRP:Фильмы
+https://kino-1.catcast.tv/content/38617/index.m3u8
+#EXTINF:-1 tvg-name="The Best" tvg-logo="https://olsib.at.ua/OLSIB-tv/no_save/logotip/olsib_logo/z2-1-.jpg" group-title="Фильмы", The Best
+#EXTGRP:Фильмы
+http://46.18.107.105/channel/501cdc1d/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.qEFMyxiS6f3YQ5YsXCHc4GmuK-ThI-Uqoy0csv0B4pE-parHkFYM3CIQedEtWyatimvNTTEUBjzKYRXCmGbPhQ
+#EXTINF:-1 tvg-name="КИНО 18+" tvg-logo="https://app.playlistbox.com/icon/7gAKaznkE1ybVxBEqlo0PGQ4d98RpY2O.png" group-title="Фильмы", КИНО 18+
+#EXTGRP:Фильмы
+https://v2.catcast.tv/content/40381/index.m3u8
+#EXTINF:-1 tvg-id="5441" tvg-rec="0" tvg-name="ТВОЕ ТВ HD" tvg-logo="http://epg.it999.ru/img2/5441.png" group-title="Фильмы", ТВОЕ ТВ HD
+#EXTGRP:Фильмы
+http://84.38.180.145:8080/tvoetv/video.m3u8
+#EXTINF:-1 tvg-name="КИНО ТВ HD" tvg-logo="https://app.playlistbox.com/icon/mLqEygb36eAPXvx4Xqxw1B4J20a7VGdn.png" group-title="Фильмы", КИНО ТВ HD
+#EXTGRP:Фильмы
+http://31.148.48.15:80/Kino_TV_HD/index.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="Страх HD" tvg-logo="https://tv-app.ru/images/logo-channel/tv-strakh-hd.png" group-title="Фильмы", Страх HD
+#EXTGRP:Фильмы
+https://hls.goodgame.ru/hls/202127.m3u8
+#EXTINF:-1 tvg-name="CINEMAN" tvg-logo="https://app.playlistbox.com/icon/lNqyYR0G5WKaBVxb2Jx9wmD7pjLP28OE.png" group-title="Фильмы", CINEMA
+#EXTGRP:Фильмы
+#EXTVLCOPT:http-user-agent=IPTV
+http://xemulwzy.russtv.net/iptv/YN2H92MFHBQ5HH/5051/index.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Horror TV" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/15786/logo_256_1670420636.jpg" group-title="Фильмы", Horror TV
+#EXTGRP:Фильмы
+http://cdn-lb.iptv2022.com/p/nxfJjGYhMgG_JD4JiUY7jA,1681389680/streaming/horror_tv/324/1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="КИНОМИКС" tvg-logo="https://app.playlistbox.com/icon/nV5EYdPgA0beWmo28XMl2Qpvy9L6KJa3.png" group-title="Фильмы", КИНОМИКС
+#EXTGRP:Фильмы
+http://82.209.197.187:8080/udp/239.0.100.33:1234
+#EXTINF:-1 tvg-name="БЛОКБАСТЕР" tvg-logo="https://app.playlistbox.com/icon/6ga80m54j7eJAxN0aAZYOLbBln3EQNrP.png" group-title="Фильмы", БЛОКБАСТЕР
+#EXTGRP:Фильмы
+http://185.23.80.26:8080/lb/Blockbaster/index.m3u8
+#EXTINF:-1 tvg-name="ПРЕМИАЛЬНОЕ HD" tvg-logo="https://app.playlistbox.com/icon/Yjk07Ev2J56XayZ7W8ZArgRlD9de8NWP.png" group-title="Фильмы", ПРЕМИАЛЬНОЕ HD
+#EXTGRP:Фильмы
+http://213.172.73.133:8081/nimble_live/9008_Премиальное_HD/playlist.m3u8
+#EXTINF:-1 tvg-name="ОСТРОСЮЖЕТНОЕ HD" tvg-logo="https://app.playlistbox.com/icon/mLqEygb36eAPXvx481xw1B4J20a7VGdn.png" group-title="Фильмы", ОСТРОСЮЖЕТНОЕ HD
+#EXTGRP:Фильмы
+http://213.172.73.133:8081/nimble_live/9009_Остросюжетное_HD/playlist.m3u8
+#EXTINF:-1 tvg-name="МОСФИЛЬМ. ЗОЛОТАЯ КОЛЛЕКЦИЯ" tvg-logo="https://app.playlistbox.com/icon/0K8XYmkqA6jOWBxPayMDE1bQl3R4Gyan.png" group-title="Фильмы", МОСФИЛЬМ. ЗОЛОТАЯ КОЛЛЕКЦИЯ
+#EXTGRP:Фильмы
+http://109.197.192.121:8080/mosfilm/index.m3u8
+#EXTINF:-1 tvg-name="ДОМ КИНО ПРЕМИУМ HD" tvg-logo="https://app.playlistbox.com/icon/r1VewAOEpa7GKmZkWbZQzj3nX6k098Rl.png" group-title="Фильмы", ДОМ КИНО ПРЕМИУМ HD
+#EXTGRP:Фильмы
+http://31.148.48.15:80/Dom_Kino_Premium_HD/index.m3u8?token=test
+#EXTINF:-1 tvg-name="НТВ СЕРИАЛ" tvg-logo="https://app.playlistbox.com/icon/a2dV6vG79n1geMrzJwMQ3EDLAN4b5ryw.png" group-title="Фильмы", НТВ СЕРИАЛ
+#EXTGRP:Фильмы
+https://livetv.mylifeisgood.ml/channels/ntvserial24
+#EXTINF:-1 tvg-name="НТВ ХИТ" tvg-logo="https://app.playlistbox.com/icon/aNGL5kdnv361goa8PRZXVmPjYb7BWK4E.png" group-title="Фильмы", НТВ ХИТ
+#EXTGRP:Фильмы
+https://livetv.mylifeisgood.ml/channels/ntvhit24
+#EXTINF:-1 tvg-name="НТМ HD" tvg-logo="https://app.playlistbox.com/icon/l64rgEeNLQpPAxOamEZ7Yav3GnwkqmBz.png" group-title="Фильмы", НТМ HD
+#EXTGRP:Фильмы
+http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="ЛЮБИМОЕ КИНО" group-title="Фильмы", ЛЮБИМОЕ КИНО
+#EXTGRP:Фильмы
+#EXTVLCOPT:http-user-agent=IPTV
+http://xemulwzy.russtv.net/iptv/YN2H92MFHBQ5HH/722/index.m3u
+#EXTINF:-1 tvg-name="РУССКИЙ РОМАН" tvg-logo="https://app.playlistbox.com/icon/PBn6p4Ke1N5rV8ZWBmMDl0bAWz7dvkJR.png" group-title="Фильмы", РУССКИЙ РОМАН
+#EXTGRP:Фильмы
+http://178.163.52.91:4022/udp/234.0.0.224:2000
+#EXTINF:-1 tvch-id="6037" tvg-name="РОДНОЕ КИНО" tvg-logo="https://app.playlistbox.com/icon/73JdNBAn1Kmr52ZK0eo9qgWpjewz6vyk.png" group-title="Фильмы", РОДНОЕ КИНО
+#EXTGRP:Фильмы
+http://178.163.52.91:4022/udp/234.0.0.177:2000
+#EXTINF:-1 tvg-id="4466" tvg-rec="0" tvg-name="KinoJam_1" tvg-logo="http://epg.it999.ru/img/4466.png" group-title="Фильмы", KinoJam_1
+#EXTGRP:Фильмы
+http://am01.spr24.net/7008/mpegts?token=deYfRE52qVzhEB
+#EXTINF:-1 tvg-id="4467" tvg-rec="0" tvg-name="KinoJam_2" tvg-logo="http://epg.it999.ru/img/4467.png" group-title="Фильмы", KinoJam_2
+#EXTGRP:Фильмы
+http://am01.spr24.net/7009/mpegts?token=deYfRE52qVzhEB
+#EXTINF:-1 tvg-name="BCU ACTION HD" tvg-logo="https://app.playlistbox.com/icon/LqEygb36eAPXvx4V9yZw1B4J20a7VGdn.png" group-title="Тест", BCU ACTION HD
+#EXTGRP:Тест
+http://am01.spr24.net/20810/mpegts?token=deYfRE52qVzhEB
+#EXTINF:-1 tvg-name="BCU CATASTROPHE HD" tvg-logo="https://app.playlistbox.com/icon/Yw9lbPDOG1VRKZ5aLKZe8pm3LXjzgkQ2.png" group-title="Тест", BCU CATASTROPHE HD
+#EXTGRP:Тест
+http://am01.spr24.net/20811/mpegts?token=deYfRE52qVzhEB
+#EXTINF:-1 tvg-name="BCU CINEMA HD" tvg-logo="https://app.playlistbox.com/icon/aNGL5kdnv361goa7zWMXVmPjYb7BWK4E.png" group-title="Тест", BCU CINEMA HD
+#EXTGRP:Тест
+http://am01.spr24.net/20812/mpegts?token=deYfRE52qVzhEB
+#EXTINF:-1 tvg-name="BCU CINEMA+ HD" tvg-logo="https://app.playlistbox.com/icon/Wjm281v9VYqwzx9Pp6oREnk3GBgNLKQX.png" group-title="Тест", BCU CINEMA+ HD
+#EXTGRP:Тест
+http://am01.spr24.net/20832/mpegts?token=deYfRE52qVzhEB
+#EXTINF:-1 tvg-name="BCU COMEDY HD" tvg-logo="https://app.playlistbox.com/icon/mrKve0kgRq96yxLrzWZQjNld35WLBJ1w.png" group-title="Тест", BCU COMEDY HD
+#EXTGRP:Тест
+http://am01.spr24.net/20813/mpegts?token=deYfRE52qVzhEB
+#EXTINF:-1 tvg-name="BCU COMEDY h264" group-title="Тест", BCU COMEDY h264
+#EXTGRP:Тест
+http://am01.spr24.net/20841/mpegts?token=deYfRE52qVzhEB
+#EXTINF:-1 tvg-name="BCU FANTASTIC HD" tvg-logo="https://app.playlistbox.com/icon/82YEm9Vw51D0poVQwQZNr4jQPOGd7KJb.png" group-title="Тест", BCU FANTASTIC HD
+#EXTGRP:Тест
+http://am01.spr24.net/20814/mpegts?token=deYfRE52qVzhEB
+#EXTINF:-1 tvg-name="BCU FILMYSTIC HD" tvg-logo="https://app.playlistbox.com/icon/WBRJkX1bvDqj5xzGJKM4KLPzglr60QA7.png" group-title="Тест", BCU FILMYSTIC HD
+#EXTGRP:Тест
+http://am01.spr24.net/20815/mpegts?token=deYfRE52qVzhEB
+#EXTINF:-1 tvg-name="BCU HISTORY HD" tvg-logo="https://app.playlistbox.com/icon/jk07Ev2J56XayZ7pzLoArgRlD9de8NWP.png" group-title="Тест", BCU HISTORY HD
+#EXTGRP:Тест
+http://am01.spr24.net/20816/mpegts?token=deYfRE52qVzhEB
+#EXTINF:-1 tvg-name="BCU KINORATING HD" tvg-logo="https://app.playlistbox.com/icon/GzJ5y6bgn0A4wMgBX2xYN1Lr2PjakdQv.png" group-title="Тест", BCU KINORATING HD
+#EXTGRP:Тест
+http://am01.spr24.net/20817/mpegts?token=deYfRE52qVzhEB
+#EXTINF:-1 tvg-name="BCU MARVEL HD" tvg-logo="https://app.playlistbox.com/icon/a2dV6vG79n1geMrpqVoQ3EDLAN4b5ryw.png" group-title="Тест", BCU MARVEL HD
+#EXTGRP:Тест
+http://am01.spr24.net/20818/mpegts?token=deYfRE52qVzhEB
+#EXTINF:-1 tvg-name="BCU MARVEL h264" group-title="Тест", BCU MARVEL h264
+#EXTGRP:Тест
+http://am01.spr24.net/20840/mpegts?token=deYfRE52qVzhEB
+#EXTINF:-1 tvg-name="BCU PREMIERE HD" tvg-logo="https://app.playlistbox.com/icon/mGYXlVJ1Da0RjxXDevxzy8dek2wvP5gW.png" group-title="Тест", BCU PREMIERE HD
+#EXTGRP:Тест
+http://am01.spr24.net/20819/mpegts?token=deYfRE52qVzhEB
+#EXTINF:-1 tvg-name="BCU ROMANTIC HD" tvg-logo="https://app.playlistbox.com/icon/yYJGdpa7X3k5mZddOYZrv4jR21qgEADK.png" group-title="Тест", BCU ROMANTIC HD
+#EXTGRP:Тест
+http://am01.spr24.net/20820/mpegts?token=deYfRE52qVzhEB
+#EXTINF:-1 tvg-name="BCU ROMANTIC h264" group-title="Тест", BCU ROMANTIC h264
+#EXTGRP:Тест
+http://am01.spr24.net/20891/mpegts?token=deYfRE52qVzhEB
+#EXTINF:-1 tvg-name="BCU RUSSIAN HD" group-title="Тест", BCU RUSSIAN HD
+#EXTGRP:Тест
+http://am01.spr24.net/20821/mpegts?token=deYfRE52qVzhEB
+#EXTINF:-1 tvg-name="BCU STARS HD" group-title="Тест", BCU STARS HD
+#EXTGRP:Тест
+http://am01.spr24.net/20833/mpegts?token=deYfRE52qVzhEB
+#EXTINF:-1 tvg-name="BCU VHS HD" group-title="Тест", BCU VHS HD
+#EXTGRP:Тест
+http://am01.spr24.net/20822/mpegts?token=deYfRE52qVzhEB
+#EXTINF:-1 tvg-name="BCU МУЛЬТСЕРИАЛ HD" tvg-logo="https://app.playlistbox.com/icon/eYB3LgjD7G8WdoDybpxAXpwKq5mPJvV9.png" group-title="Тест", BCU МУЛЬТСЕРИАЛ HD
+#EXTGRP:Тест
+http://am01.spr24.net/20828/mpegts?token=deYfRE52qVzhEB
+#EXTINF:-1 tvg-name="BCU СВАТЫ HD" tvg-logo="https://app.playlistbox.com/icon/lRXp9zJO7B0WeZ1a44Z68y35DwQnGrjA.png" group-title="Тест", BCU СВАТЫ HD
+#EXTGRP:Тест
+http://am01.spr24.net/20829/mpegts?token=deYfRE52qVzhEB
+#EXTINF:-1 tvg-name="BCU RUSERIAL HD" tvg-logo="https://app.playlistbox.com/icon/V5EYdPgA0beWmo2z5mol2Qpvy9L6KJa3.png" group-title="Тест", BCU RUSERIAL HD
+#EXTGRP:Тест
+http://am01.spr24.net/20836/mpegts?token=deYfRE52qVzhEB
+#EXTINF:-1 tvg-name="BCU СССР HD" tvg-logo="https://app.playlistbox.com/icon/q94OaJj6rD5gYx807Kx1ELBXGWRzPQ0A.png" group-title="Тест", BCU СССР HD
+#EXTGRP:Тест
+http://am01.spr24.net/20830/mpegts?token=deYfRE52qVzhEB
+#EXTINF:-1 tvg-name="BCU MEDIA HD" group-title="Тест", BCU MEDIA HD
+#EXTGRP:Тест
+http://am01.spr24.net/20831/mpegts?token=deYfRE52qVzhEB
+#EXTINF:-1 tvg-name="BCUMEDIA h264" group-title="Тест", BCUMEDIA h264
+#EXTGRP:Тест
+http://am01.spr24.net/20839/mpegts?token=deYfRE52qVzhEB
+#EXTINF:-1 tvg-name="BCU Ultra 4K" tvg-logo="https://app.playlistbox.com/icon/l5gOW7dpJq9LRZAlw0MEkNQX2Bn6V1bA.png" group-title="Тест", BCU Ultra 4K
+#EXTGRP:Тест
+http://am01.spr24.net/20835/mpegts?token=deYfRE52qVzhEB
+#EXTINF:-1 tvg-name="BCU Criminal HD" tvg-logo="https://app.playlistbox.com/icon/82YEm9Vw51D0poV4RnMNr4jQPOGd7KJb.png" group-title="Тест", BCU Criminal HD
+#EXTGRP:Тест
+http://am01.spr24.net/20837/mpegts?token=deYfRE52qVzhEB
+#EXTINF:-1 tvg-name="BCU КИНОЗАЛ PREMIERE 1 HD" tvg-logo="https://app.playlistbox.com/icon/WBRJkX1bvDqj5xz2jmx4KLPzglr60QA7.png" group-title="Тест", BCU КИНОЗАЛ PREMIERE 1 HD
+#EXTGRP:Тест
+http://am01.spr24.net/20823/mpegts?token=deYfRE52qVzhEB
+#EXTINF:-1 tvg-name="BCU КИНОЗАЛ PREMIERE 2 HD" tvg-logo="https://app.playlistbox.com/icon/0B7b8PKO54QkGZ6KbroNEqAYzmrVWyjg.png" group-title="Тест", BCU КИНОЗАЛ PREMIERE 2 HD
+#EXTGRP:Тест
+http://am01.spr24.net/20824/mpegts?token=deYfRE52qVzhEB
+#EXTINF:-1 tvg-name="BCU КИНОЗАЛ PREMIERE 3 HD" tvg-logo="https://app.playlistbox.com/icon/5YDKwr2BqLzpgZe5VdZVW8J7GyvOXld6.png" group-title="Тест", BCU КИНОЗАЛ PREMIERE 3 HD
+#EXTGRP:Тест
+http://am01.spr24.net/20825/mpegts?token=deYfRE52qVzhEB
+#EXTINF:-1 tvg-name="BCU Reality HD" tvg-logo="https://app.playlistbox.com/icon/jk07Ev2J56XayZ7yJ2xArgRlD9de8NWP.png" group-title="Тест", BCU Reality HD
+#EXTGRP:Тест
+http://am01.spr24.net/20826/mpegts?token=deYfRE52qVzhEB
+#EXTINF:-1 tvg-name="BCU Reality h264" group-title="Тест", BCU Reality h264
+#EXTGRP:Тест
+http://am01.spr24.net/20843/mpegts?token=deYfRE52qVzhEB
+#EXTINF:-1 tvg-name="BCU Survival HD" group-title="Тест", BCU Survival HD
+#EXTGRP:Тест
+http://am01.spr24.net/20838/mpegts?token=deYfRE52qVzhEB
+#EXTINF:-1 tvg-name="BCU Survival h264" group-title="Тест", BCU Survival h264
+#EXTGRP:Тест
+http://am01.spr24.net/20842/mpegts?token=deYfRE52qVzhEB
+#EXTINF:-1 tvg-name="BCU Cosmo HD" tvg-logo="https://app.playlistbox.com/icon/5YDKwr2BqLzpgZeBKqoVW8J7GyvOXld6.png" group-title="Тест", BCU Cosmo HD
+#EXTGRP:Тест
+http://am01.spr24.net/20845/mpegts?token=deYfRE52qVzhEB
+#EXTINF:-1 tvg-name="BCU Cosmo h264" group-title="Тест", BCU Cosmo h264
+#EXTGRP:Тест
+http://am01.spr24.net/20846/mpegts?token=deYfRE52qVzhEB
+#EXTINF:-1 tvg-name="BCU TruMotion HD" tvg-logo="https://app.playlistbox.com/icon/jk07Ev2J56XayZ7yWbxArgRlD9de8NWP.png" group-title="Тест", BCU TruMotion HD
+#EXTGRP:Тест
+http://am01.spr24.net/20847/mpegts?token=deYfRE52qVzhEB
+#EXTINF:-1 tvg-name="BCU Premiere Ultra 4K" tvg-logo="https://app.playlistbox.com/icon/5YDKwr2BqLzpgZeBJgoVW8J7GyvOXld6.png" group-title="Тест", BCU Premiere Ultra 4K
+#EXTGRP:Тест
+http://am01.spr24.net/20848/mpegts?token=deYfRE52qVzhEB
+#EXTINF:-1 tvg-name="BOX Franchise HD" group-title="Тест", BOX Franchise HD
+#EXTGRP:Тест
+http://am01.spr24.net/20851/mpegts?token=deYfRE52qVzhEB
+#EXTINF:-1 tvg-name="BOX Hybrid HD" group-title="Тест", BOX Hybrid HD
+#EXTGRP:Тест
+http://am01.spr24.net/20853/mpegts?token=deYfRE52qVzhEB
+#EXTINF:-1 tvg-name="BOX Gangster HD" tvg-logo="https://app.playlistbox.com/icon/q94OaJj6rD5gYx8yb5M1ELBXGWRzPQ0A.png" group-title="Тест", BOX Gangster HD
+#EXTGRP:Тест
+http://am01.spr24.net/20856/mpegts?token=deYfRE52qVzhEB
+#EXTINF:-1 tvg-name="BOX Oscar HD" group-title="Тест", BOX Oscar HD
+#EXTGRP:Тест
+http://am01.spr24.net/20857/mpegts?token=deYfRE52qVzhEB
+#EXTINF:-1 tvg-name="BOX Serial HD" group-title="Тест", BOX Serial HD
+#EXTGRP:Тест
+http://am01.spr24.net/20860/mpegts?token=deYfRE52qVzhEB
+#EXTINF:-1 tvg-name="BOX Spy HD" tvg-logo="https://app.playlistbox.com/icon/WnrJEQpk2Dbj6xjWrOM0eNRPLK49Odlv.png" group-title="Тест", BOX Spy HD
+#EXTGRP:Тест
+http://am01.spr24.net/20865/mpegts?token=deYfRE52qVzhEB
+#EXTINF:-1 tvg-name="BOX Western HD" group-title="Тест", BOX Western HD
+#EXTGRP:Тест
+http://am01.spr24.net/20867/mpegts?token=deYfRE52qVzhEB
+#EXTINF:-1 tvg-name="BOX Zombie HD" tvg-logo="https://app.playlistbox.com/icon/G8pYyreWB49J6o3n71ZmOQ3jKka5L2lD.png" group-title="Тест", BOX Zombie HD
+#EXTGRP:Тест
+http://am01.spr24.net/20868/mpegts?token=deYfRE52qVzhEB
+#EXTINF:-1 tvg-name="BOX Cyber HD" tvg-logo="https://app.playlistbox.com/icon/qLQeVBN6481ymxnrq8xJ9XldROAzkg75.png" group-title="Тест", BOX Cyber HD
+#EXTGRP:Тест
+http://am01.spr24.net/20869/mpegts?token=deYfRE52qVzhEB
+#EXTINF:-1 tvg-name="BOX Ghost HD" tvg-logo="https://app.playlistbox.com/icon/qLQeVBN6481ymxnreGxJ9XldROAzkg75.png" group-title="Тест", BOX Ghost HD
+#EXTGRP:Тест
+http://am01.spr24.net/20874/mpegts?token=deYfRE52qVzhEB
+#EXTINF:-1 tvg-name="BOX Fantasy HD" tvg-logo="https://app.playlistbox.com/icon/l64rgEeNLQpPAxOdaaM7Yav3GnwkqmBz.png" group-title="Тест", BOX Fantasy HD
+#EXTGRP:Тест
+http://am01.spr24.net/20876/mpegts?token=deYfRE52qVzhEB
+#EXTINF:-1 tvg-name="BOX Premiere 4K" group-title="Тест", BOX Premiere 4K
+#EXTGRP:Тест
+http://am01.spr24.net/20877/mpegts?token=deYfRE52qVzhEB
+#EXTINF:-1 tvg-name="BOX Serial 4K" group-title="Тест", BOX Serial 4K
+#EXTGRP:Тест
+http://am01.spr24.net/20878/mpegts?token=deYfRE52qVzhEB
+#EXTINF:-1 tvg-name="BOX Remast 4K" group-title="Тест", BOX Remast 4K
+#EXTGRP:Тест
+http://am01.spr24.net/20879/mpegts?token=deYfRE52qVzhEB
+#EXTINF:-1 tvg-name="MiniMax 007" group-title="Тест", MiniMax 007
+#EXTGRP:Тест
+http://am01.spr24.net/20701/mpegts?token=deYfRE52qVzhEB
+#EXTINF:-1 tvg-name="MiniMax Агата Кристи" group-title="Тест", MiniMax Агата Кристи
+#EXTGRP:Тест
+http://am01.spr24.net/20702/mpegts?token=deYfRE52qVzhEB
+#EXTINF:-1 tvg-name="MiniMax Боевик" group-title="Тест", MiniMax Боевик
+#EXTGRP:Тест
+http://am01.spr24.net/20703/mpegts?token=deYfRE52qVzhEB
+#EXTINF:-1 tvg-name="MiniMax Боевик classic" group-title="Тест", MiniMax Боевик classic
+#EXTGRP:Тест
+http://am01.spr24.net/20704/mpegts?token=deYfRE52qVzhEB
+#EXTINF:-1 tvg-name="MiniMax Комедия classic" group-title="Тест", MiniMax Комедия classic
+#EXTGRP:Тест
+http://am01.spr24.net/20705/mpegts?token=deYfRE52qVzhEB
+#EXTINF:-1 tvg-name="MiniMax Семейный 1" group-title="Тест", MiniMax Семейный 1
+#EXTGRP:Тест
+http://am01.spr24.net/20706/mpegts?token=deYfRE52qVzhEB
+#EXTINF:-1 tvg-name="MiniMax Семейный 2" group-title="Тест", MiniMax Семейный 2
+#EXTGRP:Тест
+http://am01.spr24.net/20707/mpegts?token=deYfRE52qVzhEB
+#EXTINF:-1 tvg-name="MiniMax Фантастика" group-title="Тест", MiniMax Фантастика
+#EXTGRP:Тест
+http://am01.spr24.net/20708/mpegts?token=deYfRE52qVzhEB
+#EXTINF:-1 tvg-name="MiniMax Фобия" group-title="Тест", MiniMax Фобия
+#EXTGRP:Тест
+http://am01.spr24.net/20709/mpegts?token=deYfRE52qVzhEB
+#EXTINF:-1 tvg-name="MiniMax История" group-title="Тест", MiniMax История
+#EXTGRP:Тест
+http://am01.spr24.net/20710/mpegts?token=deYfRE52qVzhEB
+#EXTINF:-1 tvg-name="MiniMax Катастрофа" group-title="Тест", MiniMax Катастрофа
+#EXTGRP:Тест
+http://am01.spr24.net/20711/mpegts?token=deYfRE52qVzhEB
+#EXTINF:-1 tvg-name="MiniMax Киберпанк" group-title="Тест", MiniMax Киберпанк
+#EXTGRP:Тест
+http://am01.spr24.net/20712/mpegts?token=deYfRE52qVzhEB
+#EXTINF:-1 tvg-name="MiniMax Комедия" group-title="Тест", MiniMax Комедия
+#EXTGRP:Тест
+http://am01.spr24.net/20713/mpegts?token=deYfRE52qVzhEB
+#EXTINF:-1 tvg-name="MiniMax Криминал" group-title="Тест", MiniMax Криминал
+#EXTGRP:Тест
+http://am01.spr24.net/20714/mpegts?token=deYfRE52qVzhEB
+#EXTINF:-1 tvg-name="MiniMax Кунг-фу" group-title="Тест", MiniMax Кунг-фу
+#EXTGRP:Тест
+http://am01.spr24.net/20715/mpegts?token=deYfRE52qVzhEB
+#EXTINF:-1 tvg-name="MiniMax Love" group-title="Тест", MiniMax Love
+#EXTGRP:Тест
+http://am01.spr24.net/20716/mpegts?token=deYfRE52qVzhEB
+#EXTINF:-1 tvg-name="MiniMax Нуар" group-title="Тест", MiniMax Нуар
+#EXTGRP:Тест
+http://am01.spr24.net/20717/mpegts?token=deYfRE52qVzhEB
+#EXTINF:-1 tvg-name="MiniMax Погружение" group-title="Тест", MiniMax Погружение
+#EXTGRP:Тест
+http://am01.spr24.net/20718/mpegts?token=deYfRE52qVzhEB
+#EXTINF:-1 tvg-name="MiniMax Приключения" group-title="Тест", MiniMax Приключения
+#EXTGRP:Тест
+http://am01.spr24.net/20719/mpegts?token=deYfRE52qVzhEB
+#EXTINF:-1 tvg-name="MiniMax Роскино" group-title="Тест", MiniMax Роскино
+#EXTGRP:Тест
+http://am01.spr24.net/20720/mpegts?token=deYfRE52qVzhEB
+#EXTINF:-1 tvg-name="MiniMax Скорость" group-title="Тест", MiniMax Скорость
+#EXTGRP:Тест
+http://am01.spr24.net/20721/mpegts?token=deYfRE52qVzhEB
+#EXTINF:-1 tvg-name="MiniMax Спорт" group-title="Тест", MiniMax Спорт
+#EXTGRP:Тест
+http://am01.spr24.net/20722/mpegts?token=deYfRE52qVzhEB
+#EXTINF:-1 tvg-name="MiniMax Стивен Кинг" group-title="Тест", MiniMax Стивен Кинг
+#EXTGRP:Тест
+http://am01.spr24.net/20723/mpegts?token=deYfRE52qVzhEB
+#EXTINF:-1 tvg-name="MiniMax Супергерои" group-title="Тест", MiniMax Супергерои
+#EXTGRP:Тест
+http://am01.spr24.net/20724/mpegts?token=deYfRE52qVzhEB
+#EXTINF:-1 tvg-name="MiniMax Триллер" group-title="Тест", MiniMax Триллер
+#EXTGRP:Тест
+http://am01.spr24.net/20725/mpegts?token=deYfRE52qVzhEB
+#EXTINF:-1 tvg-name="MiniMax Синематограф" group-title="Тест", MiniMax Синематограф
+#EXTGRP:Тест
+http://am01.spr24.net/20726/mpegts?token=deYfRE52qVzhEB
+#EXTINF:-1 tvg-name="MiniMax UFO" group-title="Тест", MiniMax UFO
+#EXTGRP:Тест
+http://am01.spr24.net/20727/mpegts?token=deYfRE52qVzhEB
+#EXTINF:-1 tvg-name="MiniMax translation HD" group-title="Тест", MiniMax translation HD
+#EXTGRP:Тест
+http://am01.spr24.net/20895/mpegts?token=deYfRE52qVzhEB
+#EXTINF:-1 tvg-name="MiniMax Ужасы classic" group-title="Тест", MiniMax Ужасы classic
+#EXTGRP:Тест
+http://am01.spr24.net/20728/mpegts?token=deYfRE52qVzhEB
+#EXTINF:-1 tvg-name="MiniMax Ужасы" group-title="Тест", MiniMax Ужасы
+#EXTGRP:Тест
+http://am01.spr24.net/20729/mpegts?token=deYfRE52qVzhEB
+#EXTINF:-1 tvg-name="MiniMax Ужастик" group-title="Тест", MiniMax Ужастик
+#EXTGRP:Тест
+http://am01.spr24.net/20730/mpegts?token=deYfRE52qVzhEB
+#EXTINF:-1 tvg-name="MiniMax Детектив U.S.S.R" group-title="Тест", MiniMax Детектив U.S.S.R
+#EXTGRP:Тест
+http://am01.spr24.net/20731/mpegts?token=deYfRE52qVzhEB
+#EXTINF:-1 tvg-name="MiniMax Фантастика U.S.S.R" group-title="Тест", MiniMax Фантастика U.S.S.R
+#EXTGRP:Тест
+http://am01.spr24.net/20732/mpegts?token=deYfRE52qVzhEB
+#EXTINF:-1 tvg-name="MiniMax Комедия U.S.S.R" group-title="Тест", MiniMax Комедия U.S.S.R
+#EXTGRP:Тест
+http://am01.spr24.net/20733/mpegts?token=deYfRE52qVzhEB
+#EXTINF:-1 tvg-name="MiniMax Вестерн" group-title="Тест", MiniMax Вестерн
+#EXTGRP:Тест
+http://am01.spr24.net/20734/mpegts?token=deYfRE52qVzhEB
+#EXTINF:-1 tvg-name="MiniMax Затмение" group-title="Тест", MiniMax Затмение
+#EXTGRP:Тест
+http://am01.spr24.net/20735/mpegts?token=deYfRE52qVzhEB
+#EXTINF:-1 tvg-name="MiniMax Крутые 90e" group-title="Тест", MiniMax Крутые 90e
+#EXTGRP:Тест
+http://am01.spr24.net/20736/mpegts?token=deYfRE52qVzhEB
+#EXTINF:-1 tvg-name="MiniMax Грайндхаус" group-title="Тест", MiniMax Грайндхаус
+#EXTGRP:Тест
+http://am01.spr24.net/20738/mpegts?token=deYfRE52qVzhEB
+#EXTINF:-1 tvg-name="MiniMax Newfilm 1" group-title="Тест", MiniMax Newfilm 1
+#EXTGRP:Тест
+http://am01.spr24.net/20739/mpegts?token=deYfRE52qVzhEB
+#EXTINF:-1 tvg-name="MiniMax Newfilm 2" group-title="Тест", MiniMax Newfilm 2
+#EXTGRP:Тест
+http://am01.spr24.net/20740/mpegts?token=deYfRE52qVzhEB
+#EXTINF:-1 tvg-name="MiniMax Newfilm 3" group-title="Тест", MiniMax Newfilm 3
+#EXTGRP:Тест
+http://am01.spr24.net/20741/mpegts?token=deYfRE52qVzhEB
+#EXTINF:-1 tvg-name="MiniMax Newfilm RU" group-title="Тест", MiniMax Newfilm RU
+#EXTGRP:Тест
+http://am01.spr24.net/20742/mpegts?token=deYfRE52qVzhEB
+#EXTINF:-1 tvg-name="MiniMax Ситком" group-title="Тест", MiniMax Ситком
+#EXTGRP:Тест
+http://am01.spr24.net/20745/mpegts?token=deYfRE52qVzhEB
+#EXTINF:-1 tvg-name="MiniMax Ситком 2.0" group-title="Тест", MiniMax Ситком 2.0
+#EXTGRP:Тест
+http://am01.spr24.net/20743/mpegts?token=deYfRE52qVzhEB
+#EXTINF:-1 tvg-name="MiniMax Полицейский с Рублёвки" group-title="Тест", MiniMax Полицейский с Рублёвки
+#EXTGRP:Тест
+http://am01.spr24.net/20744/mpegts?token=deYfRE52qVzhEB
+#EXTINF:-1 tvg-name="MiniMax Сваты" group-title="Тест", MiniMax Сваты
+#EXTGRP:Тест
+http://am01.spr24.net/20746/mpegts?token=deYfRE52qVzhEB
+#EXTINF:-1 tvg-name="MiniMax 1941-1945 U.S.S.R" group-title="Тест", MiniMax 1941-1945 U.S.S.R
+#EXTGRP:Тест
+http://am01.spr24.net/20748/mpegts?token=deYfRE52qVzhEB
+#EXTINF:-1 tvg-name="MiniMax Воронины" group-title="Тест", MiniMax Воронины
+#EXTGRP:Тест
+http://am01.spr24.net/20791/mpegts?token=deYfRE52qVzhEB
+#EXTINF:-1 tvg-name="MiniMax Мифология" group-title="Тест", MiniMax Мифология
+#EXTGRP:Тест
+http://am01.spr24.net/20757/mpegts?token=deYfRE52qVzhEB
+#EXTINF:-1 tvg-name="MiniMax Приключения U.S.S.R" group-title="Тест", MiniMax Приключения U.S.S.R
+#EXTGRP:Тест
+http://am01.spr24.net/20760/mpegts?token=deYfRE52qVzhEB
+#EXTINF:-1 tvg-name="MiniMax Celebrity HD" group-title="Тест", MiniMax Celebrity HD
+#EXTGRP:Тест
+http://am01.spr24.net/20861/mpegts?token=deYfRE52qVzhEB
+#EXTINF:-1 tvg-name="MiniMax Classic HD" group-title="Тест", MiniMax Classic HD
+#EXTGRP:Тест
+http://am01.spr24.net/20780/mpegts?token=deYfRE52qVzhEB
+#EXTINF:-1 tvg-name="MiniMax Драма HD" group-title="Тест", MiniMax Драма HD
+#EXTGRP:Тест
+http://am01.spr24.net/20782/mpegts?token=deYfRE52qVzhEB
+#EXTINF:-1 tvg-name="MiniMax Flip UHD" group-title="Тест", MiniMax Flip UHD
+#EXTGRP:Тест
+http://am01.spr24.net/20852/mpegts?token=deYfRE52qVzhEB
+#EXTINF:-1 tvg-name="MiniMax OldSchool HD" group-title="Тест", MiniMax OldSchool HD
+#EXTGRP:Тест
+http://am01.spr24.net/20784/mpegts?token=deYfRE52qVzhEB
+#EXTINF:-1 tvg-name="MS PRISONS HD" group-title="Тест", MS PRISONS HD
+#EXTGRP:Тест
+http://am01.spr24.net/20777/mpegts?token=deYfRE52qVzhEB
+#EXTINF:-1 tvg-name="MS YOUNG BLOOD HD" group-title="Тест", MS YOUNG BLOOD HD
+#EXTGRP:Тест
+http://am01.spr24.net/20779/mpegts?token=deYfRE52qVzhEB
+#EXTINF:-1 tvg-name="MS MAGIC HD" group-title="Тест", MS MAGIC HD
+#EXTGRP:Тест
+http://am01.spr24.net/20786/mpegts?token=deYfRE52qVzhEB
+#EXTINF:-1 tvg-name="Cine+ Hit HD" group-title="Тест", Cine+ Hit HD
+#EXTGRP:Тест
+http://85.223.221.130:8000/play/a08j
+#EXTINF:-1 tvg-id="4702" tvg-rec="7" tvg-name="KBC-Fantastic" tvg-logo="http://epg.it999.ru/img/4702.png" group-title="Тест", KBC-Fantastic
+#EXTGRP:Тест
+http://85.223.221.130:8000/play/a029
+#EXTINF:-1 tvg-id="4711" tvg-rec="7" tvg-name="KBC-ГАЙ Ritchie & Tarantino" tvg-logo="http://epg.it999.ru/img/4711.png" group-title="Тест", KBC-ГАЙ Ritchie & Tarantino
+#EXTGRP:Тест
+http://85.223.221.130:8000/play/a02a
+#EXTINF:-1 tvg-id="4712" tvg-rec="7" tvg-name="KBC-Драма tic" tvg-logo="http://epg.it999.ru/img/4712.png" group-title="Тест", KBC-Драма tic
+#EXTGRP:Тест
+http://85.223.221.130:8000/play/a02b
+#EXTINF:-1 tvg-id="4714" tvg-rec="7" tvg-name="KBC-Кошмарное" tvg-logo="http://epg.it999.ru/img/4714.png" group-title="Тест", KBC-Кошмарное
+#EXTGRP:Тест
+http://85.223.221.130:8000/play/a04m
+#EXTINF:-1 tvg-id="5123" tvg-rec="0" tvg-name="MM Love HD" tvg-logo="http://epg.it999.ru/img/5123.png" group-title="Тест", MM Love HD
+#EXTGRP:Тест
+http://85.223.221.130:8000/play/a057
+#EXTINF:-1 tvg-id="5161" tvg-rec="0" tvg-name="MM Приключения HD" tvg-logo="http://epg.it999.ru/img/5161.png" group-title="Тест", MM Приключения HD
+#EXTGRP:Тест
+http://85.223.221.130:8000/play/a04y
+#EXTINF:-1 tvg-id="5168" tvg-rec="0" tvg-name="минимакс-Стивен Кинг HD" tvg-logo="http://epg.it999.ru/img/5168.png" group-title="Тест", минимакс-Стивен Кинг HD
+#EXTGRP:Тест
+http://85.223.221.130:8000/play/a050
+#EXTINF:-1 tvg-name="КУХНЯ ТВ" tvg-logo="https://app.playlistbox.com/icon/W82YEm9Vw51D0poVpGMNr4jQPOGd7KJb.png" group-title="Познавательные", КУХНЯ ТВ
+#EXTGRP:Познавательные
+http://178.163.52.91:4022/udp/234.0.0.241:2000
+#EXTINF:-1 tvg-id="russian-extreme-uhd" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Russian Extreme UHD" tvg-logo="https://app.playlistbox.com/icon/dbPpzO3N2aBrqlov5KZy1vm7j4wQWYnR.png" group-title="Познавательные", RUSSIAN EXTREME UHD
+#EXTGRP:Познавательные
+#EXTVLCOPT:http-user-agent=IPTV
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/video_3840x2160_avc1/variant.m3u8?version=2
+#EXTINF:-1 tvg-name="НАША СИБИРЬ 4K UHD" tvg-logo="https://app.playlistbox.com/icon/keYB3LgjD7G8WdoDGpZAXpwKq5mPJvV9.png" group-title="Познавательные", НАША СИБИРЬ 4K UHD
+#EXTGRP:Познавательные
+#EXTVLCOPT:http-user-agent=IPTV
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NASHASIBIR4K/video_3840x2160_avc1/variant.m3u8
+#EXTINF:-1 tvg-name="Viasat Nature History HD" tvg-logo="https://app.playlistbox.com/icon/pYgKnX27GlDPdkZGXOoV6AOrqyjw9z1W.png" group-title="Познавательные", Viasat Nature History HD
+#EXTGRP:Познавательные
+#EXTVLCOPT:http-user-agent=IPTV
+http://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_History_HD/1080p.m3u8
+#EXTINF:-1 tvg-name="Viasat Nature HD" tvg-logo="https://app.playlistbox.com/icon/jk07Ev2J56XayZ7D4LoArgRlD9de8NWP.png" group-title="Познавательные", Viasat Nature HD
+#EXTGRP:Познавательные
+#EXTVLCOPT:http-user-agent=IPTV
+https://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_ad_HD/1080p.m3u8
+#EXTINF:-1 tvg-name="Viasat Explore HD" tvg-logo="https://app.playlistbox.com/icon/Ol64rgEeNLQpPAxO3Yx7Yav3GnwkqmBz.png" group-title="Познавательные", Viasat Explore HD
+#EXTGRP:Познавательные
+#EXTVLCOPT:http-user-agent=IPTV
+https://okkotv-live.cdnvideo.ru/channel/Viasat_Explore_HD/1080p.m3u8
+#EXTINF:-1 tvg-name="Viasat History HD" tvg-logo="https://app.playlistbox.com/icon/ma2dV6vG79n1geMr6EMQ3EDLAN4b5ryw.png" group-title="Познавательные", Viasat History HD
+#EXTGRP:Познавательные
+#EXTVLCOPT:http-user-agent=IPTV
+https://okkotv-live.cdnvideo.ru/channel/Viasat_History_ad_HD/1080p.m3u8
+#EXTINF:-1 tvg-name="HISTORY HD" tvg-logo="https://app.playlistbox.com/icon/j5YDKwr2BqLzpgZejroVW8J7GyvOXld6.png" group-title="Познавательные", HISTORY HD
+#EXTGRP:Познавательные
+http://streamer1.ruslanatv.ru/russia/history_2023/playlist.m3u8
+#EXTINF:-1 tvg-name="HISTORY2" tvg-logo="https://app.playlistbox.com/icon/yWKm9lLEGakqPMQNK7ZBOnNdRr06XV32.png" group-title="Познавательные", HISTORY2
+#EXTGRP:Познавательные
+http://88.216.83.245/history/index.m3u8
+#EXTINF:-1 tvg-name="GALAXY" tvg-logo="https://app.playlistbox.com/icon/keYB3LgjD7G8WdoDnlMAXpwKq5mPJvV9.png" group-title="Познавательные", GALAXY
+#EXTGRP:Познавательные
+http://146.158.0.56/Galaxy/index.m3u8
+#EXTINF:-1 tvg-name="ПЕРВЫЙ КОСМИЧЕСКИЙ" tvg-logo="https://app.playlistbox.com/icon/l64rgEeNLQpPAxO6Rwo7Yav3GnwkqmBz.png" group-title="Познавательные", ПЕРВЫЙ КОСМИЧЕСКИЙ
+#EXTGRP:Познавательные
+http://stream01.vnet.am/Evrika/mono.m3u8
+#EXTINF:-1 tvg-name="ТАЙНА ТВ" tvg-logo="https://app.playlistbox.com/icon/j5YDKwr2BqLzpgZeJzoVW8J7GyvOXld6.png" group-title="Познавательные", ТАЙНА ТВ
+#EXTGRP:Познавательные
+https://tochkatv-live.cdnvideo.ru/tochkatv_pub/tainatv.stream_aac2.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="NANO HD" tvg-logo="https://app.playlistbox.com/icon/qLQeVBN6481ymxnaEnoJ9XldROAzkg75.png" group-title="Познавательные", NANO HD
+#EXTGRP:Познавательные
+#EXTVLCOPT:http-user-agent=IPTV
+http://dmi3y-tv.ru/hls/okko/CH_NANOHD.m3u8
+#EXTINF:-1 tvg-name="TERRA HD" tvg-logo="https://app.playlistbox.com/icon/PkNpg4maGY0QJolpweoWLRnbqy328jAv.png" group-title="Познавательные", TERRA HD
+#EXTGRP:Познавательные
+#EXTVLCOPT:http-user-agent=IPTV
+https://okkotv-live.cdnvideo.ru/channel/NGC_HD/1080p.m3u8
+#EXTINF:-1 tvg-name="ОХОТНИК И РЫБОЛОВ HD" tvg-logo="https://app.playlistbox.com/icon/jk07Ev2J56XayZ7jjgMArgRlD9de8NWP.png" group-title="Познавательные", ОХОТНИК И РЫБОЛОВ HD
+#EXTGRP:Познавательные
+http://185.23.80.25:8080/OxotnikIRybolov_HD/index.m3u8
+#EXTINF:-1 tvg-name="ВОПРОСЫ И ОТВЕТЫ" tvg-logo="https://app.playlistbox.com/icon/Yjk07Ev2J56XayZ7zNMArgRlD9de8NWP.png" group-title="Познавательные", ВОПРОСЫ И ОТВЕТЫ
+#EXTGRP:Познавательные
+http://94.158.54.107/74/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="МОЯ ПЛАНЕТА HD" tvg-logo="https://app.playlistbox.com/icon/WBRJkX1bvDqj5xzAp6o4KLPzglr60QA7.png" group-title="Познавательные", МОЯ ПЛАНЕТА HD
+#EXTGRP:Познавательные
+http://93.125.34.51:30002/MoyaPlaneta/index.m3u8
+#EXTINF:-1 tvg-name="HD LIFE" tvg-logo="https://app.playlistbox.com/icon/NROQV8j3aWyE2vxp9aMwb4Gle19kPLKn.png" group-title="Познавательные", HD LIFE
+#EXTGRP:Познавательные
+http://31.148.48.15:80/HD_Life/index.m3u8?token=test
+#EXTINF:-1 tvg-name="NAT GEO WILD" tvg-logo="https://app.playlistbox.com/icon/aqLQeVBN6481ymxnmOoJ9XldROAzkg75.png" group-title="Познавательные", NAT GEO WILD
+#EXTGRP:Познавательные
+http://45.159.74.13:80/NatGeoWild/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-rec="7" tvg-name="МАТЧ ТВ" tvg-logo="https://app.playlistbox.com/icon/8aNGL5kdnv361goad6ZXVmPjYb7BWK4E.png" group-title="спорт", МАТЧ ТВ
+#EXTGRP:спорт
+https://okkotv-live.cdnvideo.ru/channel/Match_OTT_HD.m3u8
+#EXTINF:-1 tvg-rec="7" tvg-name="МАТЧ! ФУТБОЛ 1" tvg-logo="https://app.playlistbox.com/icon/nV5EYdPgA0beWmo2n0ol2Qpvy9L6KJa3.png" group-title="спорт", МАТЧ! ФУТБОЛ 1
+#EXTGRP:спорт
+http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/124/index.m3u8
+#EXTINF:-1 tvg-rec="7" tvg-name="МАТЧ! ФУТБОЛ 2" tvg-logo="https://app.playlistbox.com/icon/W8yEqmeblB579jow85xOK3Vvd1QJARY2.png" group-title="спорт", МАТЧ! ФУТБОЛ 2
+#EXTGRP:спорт
+http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/530/index.m3u8
+#EXTINF:-1 tvg-rec="7" tvg-name="МАТЧ! ФУТБОЛ 3" tvg-logo="https://app.playlistbox.com/icon/keYB3LgjD7G8WdoD06oAXpwKq5mPJvV9.png" group-title="спорт", МАТЧ! ФУТБОЛ 3
+#EXTGRP:спорт
+http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/522/index.m3u8
+#EXTINF:-1 tvg-rec="7" tvg-name="МАТЧ! ПРЕМЬЕР" tvg-logo="https://app.playlistbox.com/icon/ma2dV6vG79n1geMr33ZQ3EDLAN4b5ryw.png" group-title="спорт", МАТЧ! ПРЕМЬЕР
+#EXTGRP:спорт
+http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/531/index.m3u8
+#EXTINF:-1 tvg-rec="7" tvg-name="МАТЧ! АРЕНА" tvg-logo="https://app.playlistbox.com/icon/W82YEm9Vw51D0poVWmxNr4jQPOGd7KJb.png" group-title="спорт", МАТЧ! АРЕНА
+#EXTGRP:спорт
+http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/528/index.m3u8
+#EXTINF:-1 tvg-rec="7" tvg-name="МАТЧ! ПЛАНЕТА" tvg-logo="https://app.playlistbox.com/icon/38qNz762JY5OD9x0EwMPn1eAa4GyvL0V.png" group-title="спорт", МАТЧ! ПЛАНЕТА
+#EXTGRP:спорт
+http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/123/index.m3u8
+#EXTINF:-1 tvg-name="МАТЧ! СТРАНА" tvg-logo="https://app.playlistbox.com/icon/9GzJ5y6bgn0A4wMgy2oYN1Lr2PjakdQv.png" group-title="спорт", МАТЧ! СТРАНА
+#EXTGRP:спорт
+https://bl.uma.media/live/291661/HLS/4614144_3,2883584_2,1153024_1/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8
+#EXTINF:-1 tvg-rec="7" tvg-name="МАТЧ! БОЕЦ" tvg-logo="https://app.playlistbox.com/icon/Yjk07Ev2J56XayZ7L0oArgRlD9de8NWP.png" group-title="спорт", МАТЧ! БОЕЦ
+#EXTGRP:спорт
+http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/150/index.m3u8
+#EXTINF:-1 tvg-rec="0" tvg-name="ХОККЕЙНЫЙ HD" tvg-logo="https://app.playlistbox.com/icon/5YDKwr2BqLzpgZeRzQoVW8J7GyvOXld6.png" group-title="спорт", ХОККЕЙНЫЙ HD
+#EXTGRP:спорт
+http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/10039/index.m3u8
+#EXTINF:-1 tvg-rec="7" tvg-name="СПОРТИВНЫЙ HD" tvg-logo="https://app.playlistbox.com/icon/jk07Ev2J56XayZ7P12oArgRlD9de8NWP.png" group-title="спорт", СПОРТИВНЫЙ HD
+#EXTGRP:спорт
+http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/10057/index.m3u8
+#EXTINF:-1 tvg-rec="7" tvg-name="ФУТБОЛЬНЫЙ HD" tvg-logo="https://app.playlistbox.com/icon/WBRJkX1bvDqj5xz9geo4KLPzglr60QA7.png" group-title="спорт", ФУТБОЛЬНЫЙ HD
+#EXTGRP:спорт
+http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/10058/index.m3u8
+#EXTINF:-1 tvg-rec="0" tvg-name="ЖИВИ АКТИВНО HD" tvg-logo="https://app.playlistbox.com/icon/1pBwDQkeR5089Zq3GBx2yrY7KNbnjLzG.png" group-title="спорт", ЖИВИ АКТИВНО HD
+#EXTGRP:спорт
+http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/15143/index.m3u8
+#EXTINF:-1 tvg-id="ufc" tvg-name="УДАР HD" tvg-logo="https://app.playlistbox.com/icon/3JdNBAn1Kmr52ZKeD9x9qgWpjewz6vyk.png" group-title="спорт", УДАР HD
+#EXTGRP:спорт
+https://strm.yandex.ru/kal/udar/udar0.m3u8
+#EXTINF:-1 tvg-rec="0" tvg-name="БОКС ТВ HD" tvg-logo="https://app.playlistbox.com/icon/WnrJEQpk2Dbj6xj3dBM0eNRPLK49Odlv.png" group-title="спорт", БОКС ТВ HD
+#EXTGRP:спорт
+http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/19245/index.m3u8
+#EXTINF:-1 tvg-rec="3" tvg-name="МОТОСПОРТ ТВ HD" tvg-logo="https://app.playlistbox.com/icon/PBn6p4Ke1N5rV8ZWOmZDl0bAWz7dvkJR.png" group-title="спорт", МОТОСПОРТ ТВ HD
+#EXTGRP:спорт
+http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/2146/index.m3u8
+#EXTINF:-1 tvg-name="1HD" tvg-logo="https://app.playlistbox.com/icon/LqEygb36eAPXvx4nV1Zw1B4J20a7VGdn.png" group-title="Музыкальные", 1HD
+#EXTGRP:Музыкальные
+#EXTVLCOPT:http-user-agent=IPTV
+https://livetv.mylifeisgood.ml/channels/1hdmusic.m3u8
+#EXTINF:-1 tvg-name="ПЕРВЫЙ МУЗЫКАЛЬНЫЙ HD" tvg-logo="https://app.playlistbox.com/icon/qLQeVBN6481ymxnQp0oJ9XldROAzkg75.png" group-title="Музыкальные", ПЕРВЫЙ МУЗЫКАЛЬНЫЙ HD
+#EXTGRP:Музыкальные
+http://rtmp.one.by:2200
+#EXTINF:-1 tvg-name="DEEP HOUSE DiSTRICT" group-title="Музыкальные", DEEP HOUSE DiSTRICT
+#EXTGRP:Музыкальные
+#EXTVLCOPT:http-user-agent=IPTV
+https://eu-nl-012.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
+#EXTINF:-1 tvg-id="europa-plus-tv" tvg-name="EUROPA PLUS TV HD" tvg-logo="https://app.playlistbox.com/icon/3JdNBAn1Kmr52ZKW08Z9qgWpjewz6vyk.png" group-title="Музыкальные", EUROPA PLUS TV HD
+#EXTGRP:Музыкальные
+http://hls-europaplus.cdnvideo.ru/europaplus/smil:eurptv3.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="song-tv" tvg-name="SONG TV ARMENIA" tvg-logo="https://app.playlistbox.com/icon/Wjm281v9VYqwzx9PG3oREnk3GBgNLKQX.png" group-title="Музыкальные", SONG TV ARMENIA
+#EXTGRP:Музыкальные
+https://songtv.hls.iptvdc.com/web-armenia/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-name="BARAZA MUSIC HD" tvg-logo="https://app.playlistbox.com/icon/WnrJEQpk2Dbj6xj76GM0eNRPLK49Odlv.png" group-title="Музыкальные", BARAZA MUSIC HD
+#EXTGRP:Музыкальные
+#EXTVLCOPT:http-user-agent=IPTV
+https://eco.streams.ovh/BarazaTV/BarazarazaTV/BarazaTV/playlist.m3u8
+#EXTINF:-1 tvg-name="RETRO MUSIC TV" tvg-logo="https://app.playlistbox.com/icon/82YEm9Vw51D0poVpywMNr4jQPOGd7KJb.png" group-title="Музыкальные", RETRO MUSIC TV
+#EXTGRP:Музыкальные
+#EXTVLCOPT:http-user-agent=IPTV
+http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist_w680437373_b750000.m3u8
+#EXTINF:-1 tvg-name="Best of Dance TV" group-title="Музыкальные", Best of Dance TV
+#EXTGRP:Музыкальные
+#EXTVLCOPT:http-user-agent=IPTV
+https://eu-nl-012.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
+#EXTINF:-1 tvg-name="POWER LOVE" tvg-logo="https://app.playlistbox.com/icon/9GzJ5y6bgn0A4wMgA5oYN1Lr2PjakdQv.png" group-title="Музыкальные", POWER LOVE
+#EXTGRP:Музыкальные
+#EXTVLCOPT:http-user-agent=IPTV
+https://listen.powerapp.com.tr/plove/love.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="POWER+" tvg-logo="https://app.playlistbox.com/icon/9GzJ5y6bgn0A4wMgA5oYN1Lr2PjakdQv.png" group-title="Музыкальные", POWER+
+#EXTGRP:Музыкальные
+#EXTVLCOPT:http-user-agent=IPTV
+https://listen.powerapp.com.tr/pplustv/pplustv.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="KISS KISS ITALIA HD" tvg-logo="https://app.playlistbox.com/icon/GzJ5y6bgn0A4wMgqO8oYN1Lr2PjakdQv.png" group-title="Музыкальные", KISS KISS ITALIA HD
+#EXTGRP:Музыкальные
+#EXTVLCOPT:http-user-agent=IPTV
+https://59253971be783.streamlock.net/KKTV01/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="zhara" tvg-name="ЖАРА" tvg-logo="https://app.playlistbox.com/icon/NqyYR0G5WKaBVxbbPlx9wmD7pjLP28OE.png" group-title="Музыкальные", ЖАРА KIDS HD
+#EXTGRP:Музыкальные
+#EXTVLCOPT:http-user-agent=IPTV
+http://hls-zhara.cdnvideo.ru/zhara/zhara/playlist.m3u8
+#EXTINF:-1 tvg-name="SPIRIT TV HD" tvg-logo="https://app.playlistbox.com/icon/8qNz762JY5OD9x0pn0xPn1eAa4GyvL0V.png" group-title="Музыкальные", SPIRIT TV HD
+#EXTGRP:Музыкальные
+http://dmi3y-tv.ru/hls/CH_SPIRITTVHD720.m3u8
+#EXTINF:-1 tvg-name="ШАНСОН ТВ" tvg-logo="https://app.playlistbox.com/icon/yWKm9lLEGakqPMQNNwZBOnNdRr06XV32.png" group-title="Музыкальные", ШАНСОН ТВ
+#EXTGRP:Музыкальные
+#EXTVLCOPT:http-user-agent=IPTV
+http://hls-shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="la-minor" tvg-name="ЛЯ-МИНОР" tvg-logo="https://app.playlistbox.com/icon/y75Aja1n0b8YJZE88zMOpLmdwRrqXgvP.png" group-title="Музыкальные", ЛЯ-МИНОР
+#EXTGRP:Музыкальные
+http://146.158.0.56:80/Lya-Minor/index.m3u8
+#EXTINF:-1 tvg-name="MUSIC TOP" tvg-logo="https://app.playlistbox.com/icon/X2d9PpDYbRjeqxRv40xn5k71JNgAKrml.png" group-title="Музыкальные", MUSIC TOP
+#EXTGRP:Музыкальные
+#EXTVLCOPT:http-user-agent=IPTV
+http://200.115.193.177/live/msctphd-360/chunklist_w1135351997.m3u8
+#EXTINF:-1 tvg-name="ТНТ Music" tvg-logo="https://app.playlistbox.com/icon/5YDKwr2BqLzpgZeQQrZVW8J7GyvOXld6.png" group-title="Музыкальные", ТНТ Music
+#EXTGRP:Музыкальные
+#EXTVLCOPT:http-user-agent=IPTV
+https://livetv.mylifeisgood.ml/channels/tntmusicru.m3u8
+#EXTINF:-1 tvg-name="MUZZONE" tvg-logo="https://app.playlistbox.com/icon/V5EYdPgA0beWmo2KLlxl2Qpvy9L6KJa3.png" group-title="Музыкальные", MUZZONE
+#EXTGRP:Музыкальные
+#EXTVLCOPT:http-user-agent=IPTV
+http://muzzone-stream.daitsuna.net/muzzondvr/muzzone_dvr/chunks_dvr.m3u8
+#EXTINF:-1 tvg-name="BRIDGE TV" tvg-logo="https://app.playlistbox.com/icon/KPkNpg4maGY0QJol4KoWLRnbqy328jAv.png" group-title="Музыкальные", BRIDGE TV
+#EXTGRP:Музыкальные
+#EXTVLCOPT:http-user-agent=IPTV
+http://31.148.48.15:80/Bridge_TV/index.m3u8?token=test
+#EXTINF:-1 tvg-id="viva-rus" tvg-name="VIVA TV" tvg-logo="https://app.playlistbox.com/icon/YlRXp9zJO7B0WeZ1BRo68y35DwQnGrjA.png" group-title="Музыкальные", VIVA TV
+#EXTGRP:Музыкальные
+https://live.prd.dlive.tv/hls/live/viva-russia.m3u8
+#EXTINF:-1 tvg-id="muztv" tvg-name="МУЗ ТВ" tvg-logo="https://app.playlistbox.com/icon/V5EYdPgA0beWmo2nrmol2Qpvy9L6KJa3.png" group-title="Музыкальные", МУЗ ТВ
+#EXTGRP:Музыкальные
+https://okkotv-live.cdnvideo.ru/channel/MuzTV/480p.m3u8
+#EXTINF:-1 tvg-id="ru-tv" tvg-name="RU TV" tvg-logo="https://app.playlistbox.com/icon/mrKve0kgRq96yxLvRaZQjNld35WLBJ1w.png" group-title="Музыкальные", RU TV
+#EXTGRP:Музыкальные
+#EXTVLCOPT:http-user-agent=IPTV
+https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
+#EXTINF:-1 tvg-name="DSTV" tvg-logo="https://app.playlistbox.com/icon/WBRJkX1bvDqj5xzyeKo4KLPzglr60QA7.png" group-title="Музыкальные", DSTV
+#EXTGRP:Музыкальные
+#EXTVLCOPT:http-user-agent=IPTV
+https://vcndstv.teleosmedia.com/stream/dstv/dstv/seglist_720p.m3u8
+#EXTINF:-1 tvg-name="ГАГРЫ. КОЛЕСО ОБОЗРЕНИЯ" tvg-logo="https://i.ytimg.com/vi/Rxw2X6-rvPc/maxresdefault.jpg" group-title="ВЕБ-КАМЕРЫ", ГАГРЫ. КОЛЕСО ОБОЗРЕНИЯ
+#EXTGRP:ВЕБ-КАМЕРЫ
+https://a-mobile.camera/cams/WEB35-Gagrapark/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="НОВОАФОНСКИЙ ВОДОПАД" tvg-logo="https://avatars.dzeninfra.ru/get-zen_doc/3048507/pub_600ef8f7cd098e46b19dd075_600efc7ecd098e46b1a5996a/scale_1200" group-title="ВЕБ-КАМЕРЫ", НОВОАФОНСКИЙ ВОДОПАД
+#EXTGRP:ВЕБ-КАМЕРЫ
+https://a-mobile.camera/cams/WEB31-AFONVODOPAD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="НОВЫЙ АФОН. ЛЕБЕДИ" tvg-logo="https://vsegda-pomnim.com/uploads/posts/2022-04/1648857350_1-vsegda-pomnim-com-p-novii-afon-lebedinoe-ozero-foto-1.jpg" group-title="ВЕБ-КАМЕРЫ", НОВЫЙ АФОН. ЛЕБЕДИ
+#EXTGRP:ВЕБ-КАМЕРЫ
+https://a-mobile.camera/cams/WEB-Afon-Lebedi/tracks-v1/mono.m3u8
+#EXTINF:-1 tvg-name="АБХАЗИЯ. ОЗЕРО РИЦА" tvg-logo="https://funart.pro/uploads/posts/2022-08/1661247568_47-funart-pro-p-ozero-ritsa-v-aprele-priroda-49.jpg" group-title="ВЕБ-КАМЕРЫ", АБХАЗИЯ. ОЗЕРО РИЦА
+#EXTGRP:ВЕБ-КАМЕРЫ
+https://a-mobile.camera/cams/WEB50-Ritsa/tracks-v1/mono.m3u8
+#EXTINF:-1 tvg-name="АБХАЗИЯ. ПСОУ" tvg-logo="https://youwebcams.org/online/wp-content/uploads/2017/06/Abhaziya-KPP-Psou.jpg" group-title="ВЕБ-КАМЕРЫ", АБХАЗИЯ. ПСОУ
+#EXTGRP:ВЕБ-КАМЕРЫ
+https://old.sochi.camera:8081/cam_160/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="КУДЕПСТА. ВИД НА МОРЕ" tvg-logo="http://static.tildacdn.com/tild6366-3938-4962-b836-376131353335/kudepsta-5.jpg" group-title="ВЕБ-КАМЕРЫ", КУДЕПСТА. ВИД НА МОРЕ
+#EXTGRP:ВЕБ-КАМЕРЫ
+https://old.sochi.camera:8081/cam_505/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="АДЛЕР. ПЛЯЖ БАРРАКУДА" tvg-logo="https://s12.stc.all.kpcdn.net/russia/wp-content/uploads/2021/08/Plyazh-Barrakuda_2048.jpg" group-title="ВЕБ-КАМЕРЫ", АДЛЕР. ПЛЯЖ БАРРАКУДА П
+#EXTGRP:ВЕБ-КАМЕРЫ
+https://dikar-sochi.net/cam7/tracks-v1a1/mono.m3u8
