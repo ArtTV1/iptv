@@ -77,6 +77,9 @@ http://okkotv-live.cdnvideo.ru/channel/Che_OTT_2/480p.m3u8
 #EXTINF:-1 tvg-name="РОСТОВ ПАПА" tvg-logo="https://limehd.tv/images/seo/rostov-papa_1.jpg", РОСТОВ ПАПА
 #EXTGRP:Основные
 https://live-rostovpapa.cdnvideo.ru/rostovpapa/rostovpapa.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://storage.myseldon.com/yugo/3B241830E001714216E1E15CCD3A7289.png", ВОЛГОГРАД1
+#EXTGRP:Основные
+http://dmi3y-tv.ru/hls/zabava/region/VGRAD/CH_VOLGOGRAD1HD.m3u8
 #EXTINF:-1 tvg-id="kaleydoskop-tv" tvg-name="КАЛЕЙДОСКОП ТВ" tvg-logo="https://app.playlistbox.com/icon/8aNGL5kdnv361goad4ZXVmPjYb7BWK4E.png" group-title="Основные", КАЛЕЙДОСКОП ТВ
 #EXTGRP:Основные
 https://federaltv-migra.cdnvideo.ru/Kaleidoskop_edge/tracks-v1a1/mono.m3u8
