@@ -83,6 +83,9 @@ http://dmi3y-tv.ru/hls/zabava/region/VGRAD/CH_VOLGOGRAD1HD.m3u8
 #EXTINF:-1 tvg-logo="https://i.mycdn.me/image?id=909997085455&t=50&plc=WEB&tkn=*K-Xu5hJuoI-Cj39SxJ7tE_-0has&fn=external_8", УЛПРАВДА ТВ HD
 #EXTGRP:Основные
 http://dmi3y-tv.ru/hls/region/CH_ULPRAVDAHD_UL.m3u8
+#EXTINF:-1 tvg-logo="https://cheapmedia.ru/upload/iblock/c23/c232010213df44ec732f0b7bf9a7aba6.png", ЛУГАНСК24
+#EXTGRP: Основные
+https://mhd116.iptv2022.com/p/hNguRVYCOTrPqMIfpiFqpA,1687726837/streaming/lugansk24/324/1/index.m3u8
 #EXTINF:-1 tvg-id="kaleydoskop-tv" tvg-name="КАЛЕЙДОСКОП ТВ" tvg-logo="https://app.playlistbox.com/icon/8aNGL5kdnv361goad4ZXVmPjYb7BWK4E.png" group-title="Основные", КАЛЕЙДОСКОП ТВ
 #EXTGRP:Основные
 https://federaltv-migra.cdnvideo.ru/Kaleidoskop_edge/tracks-v1a1/mono.m3u8
