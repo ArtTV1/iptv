@@ -83,7 +83,7 @@ http://dmi3y-tv.ru/hls/zabava/region/VGRAD/CH_VOLGOGRAD1HD.m3u8
 #EXTINF:-1 tvg-logo="https://i.mycdn.me/image?id=909997085455&t=50&plc=WEB&tkn=*K-Xu5hJuoI-Cj39SxJ7tE_-0has&fn=external_8", УЛПРАВДА ТВ HD
 #EXTGRP:Основные
 http://dmi3y-tv.ru/hls/region/CH_ULPRAVDAHD_UL.m3u8
-#EXTINF:-1 tvg-logo="https://cheapmedia.ru/upload/iblock/c23/c232010213df44ec732f0b7bf9a7aba6.png", ЛУГАНСК24
+#EXTINF:-1 tvg-logo="https://cheapmedia.ru/upload/iblock/c23/c232010213df44ec732f0b7bf9a7aba6.png", ЛУГАНСК 24
 #EXTGRP: Основные
 https://mhd116.iptv2022.com/p/hNguRVYCOTrPqMIfpiFqpA,1687726837/streaming/lugansk24/324/1/index.m3u8
 #EXTINF:-1 tvg-id="kaleydoskop-tv" tvg-name="КАЛЕЙДОСКОП ТВ" tvg-logo="https://app.playlistbox.com/icon/8aNGL5kdnv361goad4ZXVmPjYb7BWK4E.png" group-title="Основные", КАЛЕЙДОСКОП ТВ
@@ -101,7 +101,7 @@ https://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/tracks-v1a1/mon
 #EXTINF:-1 tvg-name="КУБАНЬ 24" tvg-logo="https://app.playlistbox.com/icon/a2dV6vG79n1geMrpEnoQ3EDLAN4b5ryw.png" group-title="Основные", КУБАНЬ 24
 #EXTGRP:Основные
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_KUBAN24/variant.m3u8
-#EXTINF:-1 tvg-name="РОССИЯ24" tvg-logo="https://app.playlistbox.com/icon/6ga80m54j7eJAxN0RBZYOLbBln3EQNrP.png" group-title="Основные", РОССИЯ24
+#EXTINF:-1 tvg-name="РОССИЯ24" tvg-logo="https://app.playlistbox.com/icon/6ga80m54j7eJAxN0RBZYOLbBln3EQNrP.png" group-title="Основные", РОССИЯ 24
 #EXTGRP:Основные
 https://okkotv-live.cdnvideo.ru/channel/Russia24/480p.m3u8
 #EXTINF:-1 tvg-id="lot-47" tvg-name="ЛЕН ТВ 24" tvg-logo="https://app.playlistbox.com/icon/PkNpg4maGY0QJoljAPMWLRnbqy328jAv.png" group-title="Основные", ЛЕН ТВ 24
