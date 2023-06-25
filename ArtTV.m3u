@@ -304,7 +304,7 @@ https://v2.catcast.tv/content/40381/index.m3u8
 http://84.38.180.145:8080/tvoetv/video.m3u8
 #EXTINF:-1 tvg-logo="http://img.s-tv.ru/logos/nashkinor.jpg", ДУШЕВНОЕ КИНО
 #EXTGRP:Фильмы
-http://stream.rutvportal.com:8085/DushevnoeHD/video.m3u8?token=2732d188a923be463363ce71951dd24e
+http://stream.rutvportal.com:8085/DushevnoeHD/video.m3u8?token=b4bc9bf73a254ea3bfdc6b989e98aa97
 #EXTINF:-1 tvg-name="КИНО ТВ HD" tvg-logo="https://app.playlistbox.com/icon/mLqEygb36eAPXvx4Xqxw1B4J20a7VGdn.png" group-title="Фильмы", КИНО ТВ HD
 #EXTGRP:Фильмы
 http://31.148.48.15:80/Kino_TV_HD/index.m3u8?token=test
