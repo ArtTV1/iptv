@@ -308,7 +308,7 @@ http://st2.sky1000.ru/Semeynoe_HD/mono.m3u8?token=96cf7a23706b8872f5c1c4595a4a0e
 #EXTINF:-1 tvg-name="КИНО ТВ HD" tvg-logo="https://app.playlistbox.com/icon/mLqEygb36eAPXvx4Xqxw1B4J20a7VGdn.png" group-title="Фильмы", КИНО ТВ HD
 #EXTGRP:Фильмы
 http://31.148.48.15:80/Kino_TV_HD/index.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://francescodandreamusic.com/wp-content/uploads/2013/11/Sky+_HD_euphoric_logo1.jpg", SKY1000 RUSSIAN HD
+#EXTINF:-1 tvg-logo="https://francescodandreamusic.com/wp-content/uploads/2013/11/Sky+_HD_euphoric_logo1.jpg", SKY1000 RUSSIA HD
 #EXTGRP:Фильмы
 http://st6.sky1000.ru/sky1000russian/mono.m3u8?token=341f1675bb55b77bf022f28d08ad7594
 #EXTINF:-1 tvg-logo="https://www.dtti.it/wp-content/uploads/2013/07/skycinemahd.jpg", SKY1000 CINEMA HD
@@ -321,7 +321,7 @@ http://st6.sky1000.ru/strah_hd/mono.m3u8?token=7fbd524ddc957f28f59c787d9fffcd17
 #EXTGRP:Фильмы
 #EXTVLCOPT:http-user-agent=IPTV
 http://xemulwzy.russtv.net/iptv/YN2H92MFHBQ5HH/5051/index.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Horror TV" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/15786/logo_256_1670420636.jpg" group-title="Фильмы", Horror TV
+#EXTINF:-1 tvg-id="" tvg-name="Horror TV" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/15786/logo_256_1670420636.jpg" group-title="Фильмы", HORROR TV
 #EXTGRP:Фильмы
 http://cdn-lb.iptv2022.com/p/nxfJjGYhMgG_JD4JiUY7jA,1681389680/streaming/horror_tv/324/1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="КИНОМИКС" tvg-logo="https://app.playlistbox.com/icon/nV5EYdPgA0beWmo28XMl2Qpvy9L6KJa3.png" group-title="Фильмы", КИНОМИКС
