@@ -321,6 +321,9 @@ http://st6.sky1000.ru/strah_hd/mono.m3u8?token=7fbd524ddc957f28f59c787d9fffcd17
 #EXTGRP:Фильмы
 #EXTVLCOPT:http-user-agent=IPTV
 http://xemulwzy.russtv.net/iptv/YN2H92MFHBQ5HH/5051/index.m3u
+#EXTINF:-1 tvg-logo="https://onlinetv-one.gospelfilms.net/logo/mirserial.jpg",МИР СЕРИАЛА
+#EXTGRP: Фильмы
+http://xemulwzy.russtv.net/iptv/YN2H92MFHBQ5HH/856/index.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Horror TV" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/15786/logo_256_1670420636.jpg" group-title="Фильмы", HORROR TV
 #EXTGRP:Фильмы
 http://cdn-lb.iptv2022.com/p/nxfJjGYhMgG_JD4JiUY7jA,1681389680/streaming/horror_tv/324/1/tracks-v1a1/mono.m3u8
