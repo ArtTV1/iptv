@@ -314,7 +314,7 @@ http://st6.sky1000.ru/sky1000russian/mono.m3u8?token=341f1675bb55b77bf022f28d08a
 #EXTINF:-1 tvg-logo="https://www.dtti.it/wp-content/uploads/2013/07/skycinemahd.jpg", SKY1000 CINEMA HD
 #EXTGRP: Фильмы 
 http://st2.sky1000.ru/sky1000/mono.m3u8?token=4afdf68f46773679f49b56bc42025557
-#EXTINF:-1 tvg-id="" tvg-name="Страх HD" tvg-logo="https://tv-app.ru/images/logo-channel/tv-strakh-hd.png" group-title="Фильмы", Страх HD
+#EXTINF:-1 tvg-id="tvg-name="Страх HD" tvg-logo="https://tv-app.ru/images/logo-channel/tv-strakh-hd.png" group-title="Фильмы", СТРАХ HD
 #EXTGRP:Фильмы
 http://st6.sky1000.ru/strah_hd/mono.m3u8?token=7fbd524ddc957f28f59c787d9fffcd17
 #EXTINF:-1 tvg-name="CINEMAN" tvg-logo="https://app.playlistbox.com/icon/lNqyYR0G5WKaBVxb2Jx9wmD7pjLP28OE.png" group-title="Фильмы", CINEMA
