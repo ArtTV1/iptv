@@ -76,7 +76,7 @@ http://s18209.cdn.ngenix.net/hls/CH_R01_OTR/playlist.m3u8
 http://okkotv-live.cdnvideo.ru/channel/Che_OTT_2/480p.m3u8
 #EXTINF:-1 tvg-log="https://static.tildacdn.com/tild3839-3930-4131-b032-636234663333/Sarafan_2820122C_hor.png", САРАФАН ТВ
 #EXTGRP: Основные
-http://138.201.67.145:8081/sarafan/index.m3u8
+http://st6.sky1000.ru/Sarafan/mono.m3u8?token=151e3a88b28bd5d8393f13d532cad5e1
 #EXTINF:-1 tvg-name="РОСТОВ ПАПА" tvg-logo="https://limehd.tv/images/seo/rostov-papa_1.jpg", РОСТОВ ПАПА
 #EXTGRP:Основные
 https://live-rostovpapa.cdnvideo.ru/rostovpapa/rostovpapa.sdp/playlist.m3u8
