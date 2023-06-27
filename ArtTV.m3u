@@ -310,7 +310,7 @@ http://84.38.180.145:8080/tvoetv/video.m3u8
 http://st2.sky1000.ru/Semeynoe_HD/mono.m3u8?token=96cf7a23706b8872f5c1c4595a4a0e7a
 #EXTINF:-1 tvg-name="КИНО ТВ HD" tvg-logo="https://app.playlistbox.com/icon/mLqEygb36eAPXvx4Xqxw1B4J20a7VGdn.png" group-title="Фильмы", КИНО ТВ HD
 #EXTGRP:Фильмы
-http://31.148.48.15:80/Kino_TV_HD/index.m3u8?token=test
+http://st2.sky1000.ru/Kino_TV_HD/mono.m3u8?token=8128a8c1f1770159fb1a6a46d09353b0
 #EXTINF:-1 tvg-logo="https://francescodandreamusic.com/wp-content/uploads/2013/11/Sky+_HD_euphoric_logo1.jpg", SKY1000 RUSSIA HD
 #EXTGRP:Фильмы
 http://st6.sky1000.ru/sky1000russian/mono.m3u8?token=341f1675bb55b77bf022f28d08ad7594
