@@ -307,7 +307,7 @@ https://v2.catcast.tv/content/40381/index.m3u8
 http://84.38.180.145:8080/tvoetv/video.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-st3.rtr-vesti.ru/vh/pictures/hd/328/468/2.jpg", СМОТРИМ
 #EXTGRP: Фильмы 
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-02.smil/tracks-v3a1/mono.m3u8
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-02.smil/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://img.s-tv.ru/logos/nashkinor.jpg", ДУШЕВНОЕ КИНО
 #EXTGRP:Фильмы
 http://st2.sky1000.ru/Semeynoe_HD/mono.m3u8?token=96cf7a23706b8872f5c1c4595a4a0e7a
