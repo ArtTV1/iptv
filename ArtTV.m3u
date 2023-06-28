@@ -326,6 +326,9 @@ http://st6.sky1000.ru/Sky1000_India/mono.m3u8?token=9fc68bccd989c8c3e01e57fc690c
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/VHS_logo.svg/1200px-VHS_logo.svg.png", SKY1000 VHS HD
 #EXTGRP: Фильмы 
 http://st6.sky1000.ru/sky2000_VHS/mono.m3u8?token=dded1291555fcc012d2a2d01fa5fc781
+#EXTINF:-1 tvg-logo="https://toplogos.ru/images/logo-kinopremera.png", КИНОПРЕМЬЕРА
+#EXTGRP:Фильмы
+http://st2.sky1000.ru/HD_Kino/mono.m3u8?token=6347b0d29841f0e1f22bb0ab13ff0d86
 #EXTINF:-1 tvg-id="tvg-name="Страх HD" tvg-logo="https://tv-app.ru/images/logo-channel/tv-strakh-hd.png" group-title="Фильмы", СТРАХ HD
 #EXTGRP:Фильмы
 http://st6.sky1000.ru/strah_hd/mono.m3u8?token=7fbd524ddc957f28f59c787d9fffcd17
