@@ -712,30 +712,6 @@ http://am01.spr24.net/20779/mpegts?token=deYfRE52qVzhEB
 #EXTINF:-1 tvg-name="MS MAGIC HD" group-title="Тест", MS MAGIC HD
 #EXTGRP:Тест
 http://am01.spr24.net/20786/mpegts?token=deYfRE52qVzhEB
-#EXTINF:-1 tvg-name="Cine+ Hit HD" group-title="Тест", Cine+ Hit HD
-#EXTGRP:Тест
-http://85.223.221.130:8000/play/a08j
-#EXTINF:-1 tvg-id="4702" tvg-rec="7" tvg-name="KBC-Fantastic" tvg-logo="http://epg.it999.ru/img/4702.png" group-title="Тест", KBC-Fantastic
-#EXTGRP:Тест
-http://85.223.221.130:8000/play/a029
-#EXTINF:-1 tvg-id="4711" tvg-rec="7" tvg-name="KBC-ГАЙ Ritchie & Tarantino" tvg-logo="http://epg.it999.ru/img/4711.png" group-title="Тест", KBC-ГАЙ Ritchie & Tarantino
-#EXTGRP:Тест
-http://85.223.221.130:8000/play/a02a
-#EXTINF:-1 tvg-id="4712" tvg-rec="7" tvg-name="KBC-Драма tic" tvg-logo="http://epg.it999.ru/img/4712.png" group-title="Тест", KBC-Драма tic
-#EXTGRP:Тест
-http://85.223.221.130:8000/play/a02b
-#EXTINF:-1 tvg-id="4714" tvg-rec="7" tvg-name="KBC-Кошмарное" tvg-logo="http://epg.it999.ru/img/4714.png" group-title="Тест", KBC-Кошмарное
-#EXTGRP:Тест
-http://85.223.221.130:8000/play/a04m
-#EXTINF:-1 tvg-id="5123" tvg-rec="0" tvg-name="MM Love HD" tvg-logo="http://epg.it999.ru/img/5123.png" group-title="Тест", MM Love HD
-#EXTGRP:Тест
-http://85.223.221.130:8000/play/a057
-#EXTINF:-1 tvg-id="5161" tvg-rec="0" tvg-name="MM Приключения HD" tvg-logo="http://epg.it999.ru/img/5161.png" group-title="Тест", MM Приключения HD
-#EXTGRP:Тест
-http://85.223.221.130:8000/play/a04y
-#EXTINF:-1 tvg-id="5168" tvg-rec="0" tvg-name="минимакс-Стивен Кинг HD" tvg-logo="http://epg.it999.ru/img/5168.png" group-title="Тест", минимакс-Стивен Кинг HD
-#EXTGRP:Тест
-http://85.223.221.130:8000/play/a050
 #EXTINF:-1 tvg-name="КУХНЯ ТВ" tvg-logo="https://app.playlistbox.com/icon/W82YEm9Vw51D0poVpGMNr4jQPOGd7KJb.png" group-title="Познавательные", КУХНЯ ТВ
 #EXTGRP:Познавательные
 http://178.163.52.91:4022/udp/234.0.0.241:2000
