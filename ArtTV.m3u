@@ -328,7 +328,7 @@ http://st6.sky1000.ru/Sky1000_India/mono.m3u8?token=9fc68bccd989c8c3e01e57fc690c
 http://st6.sky1000.ru/sky2000_VHS/mono.m3u8?token=dded1291555fcc012d2a2d01fa5fc781
 #EXTINF:-1 tvg-logo="https://toplogos.ru/images/logo-kinopremera.png", КИНОПРЕМЬЕРА
 #EXTGRP:Фильмы
-http://st2.sky1000.ru/HD_Kino/mono.m3u8?token=6347b0d29841f0e1f22bb0ab13ff0d86
+http://streamer1.ruslanatv.ru/russia/kinopremyera_hd_2023/playlist.m3u8
 #EXTINF:-1 tvg-id="tvg-name="Страх HD" tvg-logo="https://tv-app.ru/images/logo-channel/tv-strakh-hd.png" group-title="Фильмы", СТРАХ HD
 #EXTGRP:Фильмы
 http://st6.sky1000.ru/strah_hd/mono.m3u8?token=7fbd524ddc957f28f59c787d9fffcd17
