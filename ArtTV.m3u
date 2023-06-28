@@ -305,7 +305,10 @@ https://v2.catcast.tv/content/40381/index.m3u8
 #EXTINF:-1 tvg-id="5441" tvg-rec="0" tvg-name="ТВОЕ ТВ HD" tvg-logo="http://epg.it999.ru/img2/5441.png" group-title="Фильмы", ТВОЕ ТВ HD
 #EXTGRP:Фильмы
 http://84.38.180.145:8080/tvoetv/video.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-st3.rtr-vesti.ru/vh/pictures/hd/328/468/2.jpg", СМОТРИМ
+#EXTINF:-1 tvg-logo="https://pristavka.profintel.ru/uploads/2022/08/10/16601315608445562.png", НАШЕ МУЖСКОЕ HD
+#EXTGRP:Фильмы 
+http://streamer1.ruslanatv.ru/russia/nashemujskoe_2023/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-st3.rtr-vesti.ru/vh/pictures/hd/328/468/2.jpg", СМОТРИМ МЕЛОДРАМЫ
 #EXTGRP: Фильмы 
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-02.smil/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://img.s-tv.ru/logos/nashkinor.jpg", ДУШЕВНОЕ КИНО
