@@ -329,6 +329,9 @@ http://st6.sky1000.ru/sky2000_VHS/mono.m3u8?token=dded1291555fcc012d2a2d01fa5fc7
 #EXTINF:-1 tvg-logo="https://toplogos.ru/images/logo-kinopremera.png", КИНОПРЕМЬЕРА
 #EXTGRP:Фильмы
 http://streamer1.ruslanatv.ru/russia/kinopremyera_hd_2023/playlist.m3u8
+#EXTINF:-1, tvg-logo="https://toplogos.ru/images/logo-kinosemya.png",КИНОСЕМЬЯ
+#EXTGRP:Фильмы
+http://streamer1.ruslanatv.ru/russia/kinosemya_sd_new_2023/playlist.m3u8
 #EXTINF:-1 tvg-id="tvg-name="Страх HD" tvg-logo="https://tv-app.ru/images/logo-channel/tv-strakh-hd.png" group-title="Фильмы", СТРАХ HD
 #EXTGRP:Фильмы
 http://st6.sky1000.ru/strah_hd/mono.m3u8?token=7fbd524ddc957f28f59c787d9fffcd17
