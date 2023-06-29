@@ -908,6 +908,9 @@ http://31.148.48.15:80/Bridge_TV/index.m3u8?token=test
 #EXTINF:-1 tvg-id="viva-rus" tvg-name="VIVA TV" tvg-logo="https://app.playlistbox.com/icon/YlRXp9zJO7B0WeZ1BRo68y35DwQnGrjA.png" group-title="Музыкальные", VIVA TV
 #EXTGRP:Музыкальные
 https://live.prd.dlive.tv/hls/live/viva-russia.m3u8
+#EXTINF:-1 tvg-logo="https://caucasusinfo.ru/uploads/posts/2015-06/1435591246_82_promo1.jpg", 9 ВОЛНА HD
+#EXTGRP:Музыкальные
+http://0ea1a3bb.amazzin.pw/iptv/3FZR3L5RF7YZ4V/10071/index.m3u8
 #EXTINF:-1 tvg-id="muztv" tvg-name="МУЗ ТВ" tvg-logo="https://app.playlistbox.com/icon/V5EYdPgA0beWmo2nrmol2Qpvy9L6KJa3.png" group-title="Музыкальные", МУЗ ТВ
 #EXTGRP:Музыкальные
 https://okkotv-live.cdnvideo.ru/channel/MuzTV/480p.m3u8
