@@ -1,30 +1,24 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="pervy" tvg-name="ПЕРВЫЙ КАНАЛ" tvg-logo="https://app.playlistbox.com/icon/5YDKwr2BqLzpgZeq7pZVW8J7GyvOXld6.png" group-title="Основные", ПЕРВЫЙ КАНАЛ
 #EXTGRP:Основные
-#EXTVLCOPT:http-user-agent=IPTV
 http://edge4.1internet.tv/dash-live12/streams/1tv/1tvdash.mpd
 #EXTINF:-1 tvg-name="ПЕРВЫЙ КАНАЛ (+1)" tvg-logo="https://app.playlistbox.com/icon/aNGL5kdnv361goab2RxXVmPjYb7BWK4E.png" group-title="Основные", ПЕРВЫЙ КАНАЛ (+1)
 #EXTGRP:Основные
-#EXTVLCOPT:http-user-agent=IPTV
 https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SARATOV_1TV/variant.m3u8
 #EXTINF:-1 tvg-id="rossia1" tvg-name="РОССИЯ 1" tvg-logo="https://i.pinimg.com/originals/52/d6/82/52d682842b7c24c184d9163b0ba040e6.png" group-title="Основные", РОССИЯ 1
 #EXTGRP:Основные
-#EXTVLCOPT:http-user-agent=IPTV
 http://okkotv-live.cdnvideo.ru/channel/Russia1HD/1080p.m3u8
 #EXTINF:-1 tvg-name="РОССИЯ (+1)" tvg-logo="https://app.playlistbox.com/icon/aNGL5kdnv361goaba1xXVmPjYb7BWK4E.png" group-title="Основные", РОССИЯ (+1)
 #EXTGRP:Основные
-#EXTVLCOPT:http-user-agent=IPTV
 https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R04_OTT_VLG_SARATOV_ROSSIA1/variant.m3u8?version=2
 #EXTINF:-1 tvg-id="ntv" tvg-name="НТВ" tvg-logo="https://app.playlistbox.com/icon/0B7b8PKO54QkGZ6p1qxNEqAYzmrVWyjg.png" group-title="Основные", НТВ
 #EXTGRP:Основные
-#EXTVLCOPT:http-user-agent=IPTV
 https://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-name="НТВ (+1)" tvg-logo="https://app.playlistbox.com/icon/LqEygb36eAPXvx4n7zZw1B4J20a7VGdn.png" group-title="Основные", НТВ (+1)
 #EXTGRP:Основные
 https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SARATOV_NTV/variant.m3u8?version=2
 #EXTINF:-1 tvg-id="5kanal-ru" tvg-name="ПЯТЫЙ КАНАЛ" tvg-logo="https://app.playlistbox.com/icon/9GzJ5y6bgn0A4wMgRWxYN1Lr2PjakdQv.png" group-title="Основные", ПЯТЫЙ КАНАЛ
 #EXTGRP:Основные
-#EXTVLCOPT:http-user-agent=IPTV
 http://okkotv-live.cdnvideo.ru/channel/5_OTT/480p.m3u8
 #EXTINF:-1 tvg-id="rentv" tvg-name="РЕН ТВ" tvg-logo="https://app.playlistbox.com/icon/keYB3LgjD7G8WdoDW6ZAXpwKq5mPJvV9.png" group-title="Основные", РЕН ТВ
 #EXTGRP:Основные
