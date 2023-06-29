@@ -4,7 +4,7 @@
 http://edge4.1internet.tv/dash-live12/streams/1tv/1tvdash.mpd
 #EXTINF:-1 tvg-name="ПЕРВЫЙ КАНАЛ (+1)" tvg-logo="https://app.playlistbox.com/icon/aNGL5kdnv361goab2RxXVmPjYb7BWK4E.png" group-title="Основные", ПЕРВЫЙ КАНАЛ (+1)
 #EXTGRP:Основные
-#EXTVLCOPT:http-user-agent=IPTV
+#EXTVLCOPT:http-user-agent="IPTV"
 https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SARATOV_1TV/variant.m3u8
 #EXTINF:-1 tvg-id="rossia1" tvg-name="РОССИЯ 1" tvg-logo="https://i.pinimg.com/originals/52/d6/82/52d682842b7c24c184d9163b0ba040e6.png" group-title="Основные", РОССИЯ 1
 #EXTGRP:Основные
