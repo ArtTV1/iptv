@@ -2326,7 +2326,7 @@ https://okkotv-live.cdnvideo.ru/channel/Viasat_History_ad_HD/1080p.m3u8
 http://91.233.215.250:7272/PK41HvJyzlbR8XZ
 #EXTINF:-1 tvg-name="HISTORY2" tvg-logo="https://app.playlistbox.com/icon/yWKm9lLEGakqPMQNK7ZBOnNdRr06XV32.png" group-title="Познавательные", HISTORY2
 #EXTGRP:Познавательные
-http://gvacmmh7.russtv.net/iptv/NCXVSHQPF33ZTG/1052/index.m3u8
+rtmp://5.182.231.251//2033
 #EXTINF:-1 tvg-name="GALAXY" tvg-logo="https://app.playlistbox.com/icon/keYB3LgjD7G8WdoDnlMAXpwKq5mPJvV9.png" group-title="Познавательные", GALAXY
 #EXTGRP:Познавательные
 http://146.158.0.56/Galaxy/index.m3u8
