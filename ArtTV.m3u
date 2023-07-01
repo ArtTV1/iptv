@@ -2406,7 +2406,7 @@ https://strm.yandex.ru/kal/udar/udar0.m3u8
 https://mhd116.iptv2022.com/p/Nvi6deGBE-Z_ishWts1XGQ,1688222783/streaming/bokstv/324/1/index.m3u8
 #EXTINF:-1 tvg-rec="3" tvg-name="МОТОСПОРТ ТВ HD" tvg-logo="https://app.playlistbox.com/icon/PBn6p4Ke1N5rV8ZWOmZDl0bAWz7dvkJR.png" group-title="спорт", МОТОСПОРТ ТВ HD
 #EXTGRP:спорт
-http://37403135.cbilant.com/iptv/UQMAC8KDXRUSKG/2146/index.m3u8
+https://mhd116.iptv2022.com/p/aYROMid2gguGOT5Tf9mA2g,1688222783/streaming/motosport/324/1/index.m3u8
 #EXTINF:-1 tvg-name="1HD" tvg-logo="https://app.playlistbox.com/icon/LqEygb36eAPXvx4nV1Zw1B4J20a7VGdn.png" group-title="Музыкальные", 1HD
 #EXTGRP:Музыкальные
 #EXTVLCOPT:http-user-agent=IPTV
