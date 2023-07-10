@@ -365,7 +365,7 @@ http://185.23.80.26:8080/lb/Blockbaster/index.m3u8
 http://213.172.73.133:8081/nimble_live/9008_Премиальное_HD/playlist.m3u8
 #EXTINF:-1 tvg-name="ОСТРОСЮЖЕТНОЕ HD" tvg-logo="https://app.playlistbox.com/icon/mLqEygb36eAPXvx481xw1B4J20a7VGdn.png" group-title="Фильмы", ОСТРОСЮЖЕТНОЕ HD
 #EXTGRP:Фильмы
-http://lgpwzhdr.akciatv.ru/iptv/LBXCLUXQPUBD4N/904/index.m3u8
+http://89.33.29.115/Ostrosyuzhetnoe_HD/mono.m3u8
 #EXTINF:-1 tvg-name="МОСФИЛЬМ. ЗОЛОТАЯ КОЛЛЕКЦИЯ" tvg-logo="https://app.playlistbox.com/icon/0K8XYmkqA6jOWBxPayMDE1bQl3R4Gyan.png" group-title="Фильмы", МОСФИЛЬМ. ЗОЛОТАЯ КОЛЛЕКЦИЯ
 #EXTGRP:Фильмы
 http://109.197.192.121:8080/mosfilm/index.m3u8
