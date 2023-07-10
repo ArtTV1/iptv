@@ -91,7 +91,7 @@ http://dmi3y-tv.ru/hls/zabava/region/VGRAD/CH_VOLGOGRAD1HD.m3u8
 http://dmi3y-tv.ru/hls/region/CH_ULPRAVDAHD_UL.m3u8
 #EXTINF:-1 tvg-logo="https://cheapmedia.ru/upload/iblock/c23/c232010213df44ec732f0b7bf9a7aba6.png", ЛУГАНСК 24
 #EXTGRP: Основные
-http://192.162.64.222:4000/play/a00k/index.m3u8
+https://tv.gtrklnr.ru/hls/Lugansk24.m3u8
 #EXTINF:-1 tvg-id="kaleydoskop-tv" tvg-name="КАЛЕЙДОСКОП ТВ" tvg-logo="https://app.playlistbox.com/icon/8aNGL5kdnv361goad4ZXVmPjYb7BWK4E.png" group-title="Основные", КАЛЕЙДОСКОП ТВ
 #EXTGRP:Основные
 https://federaltv-migra.cdnvideo.ru/Kaleidoskop_edge/tracks-v1a1/mono.m3u8
@@ -170,7 +170,7 @@ http://178.68.215.18:82/play/a04w
 #EXTINF:-1 tvg-name="2х2" tvg-logo="https://app.playlistbox.com/icon/XG8pYyreWB49J6o3LjxmOQ3jKka5L2lD.png" group-title="Основные", 2х2
 #EXTGRP:Основные
 #EXTVLCOPT:http-user-agent=IPTV
-http://93.125.34.51:30002/2x2/index.m3u8
+https://mhd116.iptv2022.com/p/FqOU2_g94vJiZmyUxo2GQw,1689062007/streaming/2x2/324/1/index.m3u8
 #EXTINF:-1 tvg-id="kinouzhas" tvg-name="КИНОУЖАС" tvg-logo="https://app.playlistbox.com/icon/N7gAKaznkE1ybVxB82Z0PGQ4d98RpY2O.png" group-title="Фильмы", КИНОУЖАС
 #EXTGRP:Фильмы
 http://109.197.192.121:8080/kinouzhas/index.m3u8
