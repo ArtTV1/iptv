@@ -268,10 +268,6 @@ http://178.163.52.91:4022/udp/234.0.0.187:2000
 #EXTINF:-1 tvg-id="kinosat" tvg-name="КИНОСАТ" tvg-logo="https://app.playlistbox.com/icon/PBn6p4Ke1N5rV8ZWgdZDl0bAWz7dvkJR.png" group-title="Фильмы", КИНОСАТ
 #EXTGRP:Фильмы
 http://185.23.80.28:8080/KinoSat/index.m3u8
-#EXTINF:-1 tvg-name="ТВ ЭКСТРА HD" tvg-logo="https://app.playlistbox.com/icon/YgKnX27GlDPdkZG0GmoV6AOrqyjw9z1W.png" group-title="Фильмы", ТВ ЭКСТРА HD
-#EXTGRP:Фильмы
-#EXTVLCOPT:http-user-agent=IPTV
-http://live-1.otcnet.ru:80/tvextra720b/index.m3u8
 #EXTINF:-1 tvg-name="KINOLIVING" tvg-logo="https://app.playlistbox.com/icon/aNGL5kdnv361goabROxXVmPjYb7BWK4E.png" group-title="Фильмы", KINOLIVING
 #EXTGRP:Фильмы
 http://cdn-lb.iptv2022.com/p/QjacDa0y1pHDtYq-sBWN1Q,1672950459/streaming/kinoliving/324/1/tracks-v3a1/mono.m3u8
@@ -301,7 +297,7 @@ http://45.159.74.13:80/Kinokhit/tracks-v1a1/mono.m3u8
 https://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 tvg-name="The Best" tvg-logo="https://olsib.at.ua/OLSIB-tv/no_save/logotip/olsib_logo/z2-1-.jpg" group-title="Фильмы", THE BEST
 #EXTGRP:Фильмы
-http://46.18.107.105/channel/501cdc1d/index.m3u8?q=eyJ1c2VySWQiOiJhZG1pbiJ9.qEFMyxiS6f3YQ5YsXCHc4GmuK-ThI-Uqoy0csv0B4pE-parHkFYM3CIQedEtWyatimvNTTEUBjzKYRXCmGbPhQ
+http://tncksodb.akciatv.ru/iptv/9ZUHKLXS4S8LGW/11050/index.m3u8
 #EXTINF:-1 tvg-name="КИНО 18+" tvg-logo="https://app.playlistbox.com/icon/7gAKaznkE1ybVxBEqlo0PGQ4d98RpY2O.png" group-title="Фильмы", КИНО 18+
 #EXTGRP:Фильмы
 https://v2.catcast.tv/content/40381/index.m3u8
