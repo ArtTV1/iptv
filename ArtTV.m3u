@@ -359,7 +359,7 @@ http://cdn-lb.iptv2022.com/p/nxfJjGYhMgG_JD4JiUY7jA,1681389680/streaming/horror_
 http://82.209.197.187:8080/udp/239.0.100.33:1234
 #EXTINF:-1 tvg-name="БЛОКБАСТЕР" tvg-logo="https://app.playlistbox.com/icon/6ga80m54j7eJAxN0aAZYOLbBln3EQNrP.png" group-title="Фильмы", БЛОКБАСТЕР
 #EXTGRP:Фильмы
-http://185.23.80.26:8080/lb/Blockbaster/index.m3u8
+http://89.33.29.116/blokbaster_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="ПРЕМИАЛЬНОЕ HD" tvg-logo="https://app.playlistbox.com/icon/Yjk07Ev2J56XayZ7W8ZArgRlD9de8NWP.png" group-title="Фильмы", ПРЕМИАЛЬНОЕ HD
 #EXTGRP:Фильмы
 http://213.172.73.133:8081/nimble_live/9008_Премиальное_HD/playlist.m3u8
