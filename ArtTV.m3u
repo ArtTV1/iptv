@@ -356,7 +356,7 @@ http://xemulwzy.russtv.net/iptv/YN2H92MFHBQ5HH/856/index.m3u
 http://cdn-lb.iptv2022.com/p/nxfJjGYhMgG_JD4JiUY7jA,1681389680/streaming/horror_tv/324/1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="КИНОМИКС" tvg-logo="https://app.playlistbox.com/icon/nV5EYdPgA0beWmo28XMl2Qpvy9L6KJa3.png" group-title="Фильмы", КИНОМИКС
 #EXTGRP:Фильмы
-http://82.209.197.187:8080/udp/239.0.100.33:1234
+http://89.33.29.115/Kino_plyus/mono.m3u8
 #EXTINF:-1 tvg-name="БЛОКБАСТЕР" tvg-logo="https://app.playlistbox.com/icon/6ga80m54j7eJAxN0aAZYOLbBln3EQNrP.png" group-title="Фильмы", БЛОКБАСТЕР
 #EXTGRP:Фильмы
 http://89.33.29.116/blokbaster_hd/tracks-v1a1/mono.m3u8
