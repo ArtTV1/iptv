@@ -295,9 +295,6 @@ http://45.159.74.13:80/Kinokhit/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="КИНО 1 INTERNATIONAL" tvg-logo="https://app.playlistbox.com/icon/WBRJkX1bvDqj5xzKdmM4KLPzglr60QA7.png" group-title="Фильмы", КИНО 1 INTERNATIONAL
 #EXTGRP:Фильмы
 https://kino-1.catcast.tv/content/38617/index.m3u8
-#EXTINF:-1 tvg-name="The Best" tvg-logo="https://olsib.at.ua/OLSIB-tv/no_save/logotip/olsib_logo/z2-1-.jpg" group-title="Фильмы", THE BEST
-#EXTGRP:Фильмы
-http://tncksodb.akciatv.ru/iptv/9ZUHKLXS4S8LGW/11050/index.m3u8
 #EXTINF:-1 tvg-name="КИНО 18+" tvg-logo="https://app.playlistbox.com/icon/7gAKaznkE1ybVxBEqlo0PGQ4d98RpY2O.png" group-title="Фильмы", КИНО 18+
 #EXTGRP:Фильмы
 https://v2.catcast.tv/content/40381/index.m3u8
