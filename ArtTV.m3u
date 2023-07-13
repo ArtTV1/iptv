@@ -309,7 +309,7 @@ http://streamer1.ruslanatv.ru/russia/nashemujskoe_2023/playlist.m3u8
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-02.smil/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://img.s-tv.ru/logos/nashkinor.jpg", ДУШЕВНОЕ КИНО
 #EXTGRP:Фильмы
-http://st2.sky1000.ru/Semeynoe_HD/mono.m3u8?token=96cf7a23706b8872f5c1c4595a4a0e7a
+https://stream-msk-06.ott.tricolor.tv:443/dtv/id395_MSKSG-PVR-1--HD_Nash_Kinoroman/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MTAyNTUwMDYwNTg4MiIsImV4cCI6MTY4OTc0MjYwMywiaHdpZCI6IjA1OTgxOTUwMjliODE3MzIxYTQ2MGE3M2QwNWRjNGY5M2I5ZmM0NjM5OWFlOWRmYzJlZTZiMGUwNDVhZWViYzkiLCJsYXN0X3JlcV9kYXRlIjoxNjg5MTM3ODAzLCJzZXNzaW9uX2lkIjoiZDUzMjJkYmUwMDhmMjJhMzNhNjVlNzUxMGUwNjE5YjMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.PmGZ4KtoKgeYcfmweYBl4yVcsUvYdpKVIzXuNNROXH4
 #EXTINF:-1 tvg-logo="https://luganet.ru/wp-content/uploads/2022/07/%D0%9D%D0%B0%D1%88%D0%B5-%D0%BD%D0%BE%D0%B2%D0%BE%D0%B5-%D0%BA%D0%B8%D0%BD%D0%BE-HD.jpg", НАШЕ НОВОЕ КИНО
 #EXTGRP:Фильмы
 http://st2.sky1000.ru/Nashe_novoe_kino/mono.m3u8?token=c90cf5b5b4862fa8e2598c9ada9f51dd
