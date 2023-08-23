@@ -651,6 +651,77 @@ http://cdn.klimedia.space/History2HD/index.m3u8?token=RGRkZGQ6UXdlcnR5MTI=
 
 
 
+#EXTINF:0,MiTV Киборг
+#EXTGRP:MiTV Кинозалы
+http://de.mitv-iptv.ru/3011/index.m3u8?token=V3d3d3c6UXdlcnR5MTI=
+#EXTINF:0,MiTV Годзилла
+#EXTGRP:MiTV Кинозалы
+http://de.mitv-iptv.ru/3010/index.m3u8?token=V3d3d3c6UXdlcnR5MTI=
+#EXTINF:0,MiTV Ангелы и демоны
+#EXTGRP:MiTV Кинозалы
+http://de.mitv-iptv.ru/3009/index.m3u8?token=V3d3d3c6UXdlcnR5MTI=
+#EXTINF:0,MiTV Арнольнд Шварцнегер
+#EXTGRP:MiTV Фильмография
+http://de.mitv-iptv.ru/0064/index.m3u8?token=V3d3d3c6UXdlcnR5MTI=
+#EXTINF:0,MiTV Дьявольщина
+#EXTGRP:MiTV Кинозалы
+http://de.mitv-iptv.ru/0062/index.m3u8?token=V3d3d3c6UXdlcnR5MTI=
+#EXTINF:0,MiTV Александр Абдулов 
+#EXTGRP:MiTV Фильмография
+http://de.mitv-iptv.ru/0817/index.m3u8?token=V3d3d3c6UXdlcnR5MTI=
+#EXTINF:0,MiTV Жан клод вандам
+#EXTGRP:MiTV Фильмография
+http://de.mitv-iptv.ru/0106/index.m3u8?token=V3d3d3c6UXdlcnR5MTI=
+#EXTINF:0,MiTV Лую Дефинес
+#EXTGRP:MiTV Фильмография
+http://de.mitv-iptv.ru/0072/index.m3u8?token=V3d3d3c6UXdlcnR5MTI=
+#EXTINF:0,MiTV Брюс Уиллис
+#EXTGRP:MiTV Фильмография
+http://de.mitv-iptv.ru/0117/index.m3u8?token=V3d3d3c6UXdlcnR5MTI=
+#EXTINF:0,MiTV Жан Рено  
+#EXTGRP:MiTV Фильмография
+http://de.mitv-iptv.ru/0040/index.m3u8?token=V3d3d3c6UXdlcnR5MTI=
+#EXTINF:0,MiTV Энистон Дженнифер 
+#EXTGRP:MiTV Фильмография
+http://de.mitv-iptv.ru/0185/index.m3u8?token=V3d3d3c6UXdlcnR5MTI=
+#EXTINF:0,MiTV Marvel 
+#EXTGRP:MiTV Кинозалы
+http://de.mitv-iptv.ru/0049/index.m3u8?token=V3d3d3c6UXdlcnR5MTI=
+#EXTINF:0,MiTV Стивен Сигал 
+#EXTGRP:MiTV Фильмография
+http://de.mitv-iptv.ru/0071/index.m3u8?token=V3d3d3c6UXdlcnR5MTI=
+#EXTINF:0,MiTV Пьер Ришар 
+#EXTGRP:MiTV Фильмография
+http://de.mitv-iptv.ru/0124/index.m3u8?token=V3d3d3c6UXdlcnR5MTI=
+#EXTINF:0,MiTV Киносказка
+#EXTGRP:MiTV Кинозалы
+http://de.mitv-iptv.ru/0155/index.m3u8?token=V3d3d3c6UXdlcnR5MTI=
+#EXTINF:0,MiTV Сильвестр Сталлоне
+#EXTGRP:MiTV Фильмография
+http://de.mitv-iptv.ru/0052/index.m3u8?token=V3d3d3c6UXdlcnR5MTI=
+#EXTINF:0,MiTV Джим Керри
+#EXTGRP:MiTV Фильмография
+http://de.mitv-iptv.ru/0110/index.m3u8?token=V3d3d3c6UXdlcnR5MTI=
+#EXTINF:0,MiTV СВ Шоу
+#EXTGRP:Без категории
+http://de.mitv-iptv.ru/00110/index.m3u8?token=V3d3d3c6UXdlcnR5MTI=
+#EXTINF:0,MiTV Жан поль Бельмондо
+#EXTGRP:MiTV Фильмография
+http://de.mitv-iptv.ru/0213/index.m3u8?token=V3d3d3c6UXdlcnR5MTI=
+#EXTINF:0,MiTV Воронины
+#EXTGRP:MiTV Сериалы
+http://de.mitv-iptv.ru/0121/index.m3u8?token=V3d3d3c6UXdlcnR5MTI=
+
+
+
+
+
+
+
+
+
+
+
 #EXTM3U x-tvg-url="http://epg.it999.ru/epg.xml.gz"
 #EXTINF:0 group-title="Общие" tvg-id="146" tvg-logo="http://epg.it999.ru/img/983.png" tvg-rec="7",Первый канал FHD
 http://rhsbjv7k.tvclub.xyz/iptv/UELNZLB72BZFXQ/2402/index.m3u8
