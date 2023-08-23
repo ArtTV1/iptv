@@ -319,13 +319,13 @@ http://xemulwzy.russtv.net/iptv/YN2H92MFHBQ5HH/5051/index.m3u
 http://xemulwzy.russtv.net/iptv/YN2H92MFHBQ5HH/856/index.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Horror TV" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/15786/logo_256_1670420636.jpg" group-title="Фильмы", HORROR TV
 #EXTGRP:Фильмы
-http://cdn-lb.iptv2022.com/p/nxfJjGYhMgG_JD4JiUY7jA,1681389680/streaming/horror_tv/324/1/tracks-v1a1/mono.m3u8
+https://mhd116.iptv2022.com/p/F0wdFX4ErE3K7eKbISONig,1692824412/streaming/horror_tv/324/1/index.m3u8
 #EXTINF:-1 tvg-name="КИНОМИКС" tvg-logo="https://app.playlistbox.com/icon/nV5EYdPgA0beWmo28XMl2Qpvy9L6KJa3.png" group-title="Фильмы", КИНОМИКС
 #EXTGRP:Фильмы
-http://89.33.29.115/Kino_plyus/mono.m3u8
+http://193.33.88.172/kinomix/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="БЛОКБАСТЕР" tvg-logo="https://app.playlistbox.com/icon/6ga80m54j7eJAxN0aAZYOLbBln3EQNrP.png" group-title="Фильмы", БЛОКБАСТЕР
 #EXTGRP:Фильмы
-http://89.33.29.116/blokbaster_hd/tracks-v1a1/mono.m3u8
+http://193.33.88.172/blokbaster_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="ПРЕМИАЛЬНОЕ HD" tvg-logo="https://app.playlistbox.com/icon/Yjk07Ev2J56XayZ7W8ZArgRlD9de8NWP.png" group-title="Фильмы", ПРЕМИАЛЬНОЕ HD
 #EXTGRP:Фильмы
 http://213.172.73.133:8081/nimble_live/9008_Премиальное_HD/playlist.m3u8
